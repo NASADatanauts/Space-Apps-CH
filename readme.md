@@ -19,10 +19,8 @@ Explore the official NASA Space Apps 2025 challenges:
 In addition to the global challenges, Zurich offers **7 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
 
 ### 📂 Local Challenge Files in This Repo
-Challenges/🌱1. From Farm to Table Using Space Data to Support Swiss Farmers and Reduce Food Waste.md
-1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](./Challenges/🌱1.%20From%20Farm%20to%20Table%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md)
 
-1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](./Challenges/🌱1.%20From%20Farm%20to%20Table:%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md)  
+1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](./Challenges/🌱1.%20From%20Farm%20to%20Table%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md) 
 2. ⚡ [Smarter Energy Planning with Weather Forecasts](./Challenges/⚡%202.%20Smarter%20Energy%20Planning%20with%20Weather%20Forecasts.md)  
 3. 🌆 [Space Data for a Smarter & More Attractive Zurich](./Challenges/🌆%203.%20Space%20Data%20for%20a%20Smarter%20&%20More%20Attractive%20Zurich.md)  
 4. 🗺️ [Unlocking the Atlas der Schweiz](./Challenges/🗺️%204.%20Challenge:%20Unlocking%20the%20Atlas%20der%20Schweiz%20.md)  
