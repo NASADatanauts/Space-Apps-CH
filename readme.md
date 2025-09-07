@@ -14,9 +14,9 @@ All challenge descriptions and resources are organized here in this repository.
 Explore the official NASA Space Apps 2025 challenges:  
 👉 [See the Global Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
  
-## 🇨🇭 Zurich Local Challenges (7)  
+## 🇨🇭 Zurich Local Challenges   
 
-In addition to the global challenges, Zurich offers **7 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
+In addition to the global challenges, Zurich offers **8 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
 
 ### 📂 Local Challenge Files in This Repo
 
