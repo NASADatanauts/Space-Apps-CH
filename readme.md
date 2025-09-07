@@ -5,7 +5,7 @@ Welcome to the **NASA Space Apps Challenge – Zurich Edition!**
 
 This year, teams in Zurich will get to choose from:  
 - **18 Global Challenges** defined by NASA and its partners 🌍  
-- **7 Local Zurich Challenges** 🇨🇭 tailored to Swiss needs and opportunities  
+- **8 Local Zurich Challenges** 🇨🇭 tailored to Swiss needs and opportunities  
 
 All challenge descriptions and resources are organized here in this repository.  
 
