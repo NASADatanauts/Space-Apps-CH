@@ -26,7 +26,9 @@ In addition to the global challenges, Zurich offers **7 unique local tracks**. T
 4. 🗺️ [Challenge: Unlocking the Atlas der Schweiz](./Challenges/🗺️%204.%20Challenge%20Unlocking%20the%20Atlas%20der%20Schweiz%20.md)
 5. 🌾 [Climate Smart Supply Chains: Securing Food Futures from Space](./Challenges/🌾%205.%20Climate%20Smart%20Supply%20Chains%20Securing%20Food%20Futures%20from%20Space.md)
 6. 💊 [Space-Enabled Pharma: Unlocking Microgravity Research to Advance Health on Earth](./Challenges/💊6.%20Space-Enabled%20Pharma%20Unlocking%20Microgravity%20Research%20to%20Advance%20Health%20on%20Earth.md)
-7. 🚦 [Smarter Urban Planning & Navigation for Zurich](./Challenges/🚦7.%20Smarter%20Urban%20Planning%20&%20Navigation%20for%20Zurich%20.md)  
+7. 🚦 [Smarter Urban Planning & Navigation for Zurich](./Challenges/🚦7.%20Smarter%20Urban%20Planning%20&%20Navigation%20for%20Zurich%20.md)
+8. 🚨[ Save Blatten & Beyond: Rapid Response to Natural and Man-Made Disasters](Challenges/🚨8.%20Save%20Blatten%20&%20Beyond:%20Rapid%20Response%20to%20Natural%20and%20Man-Made%20Disasters.md)
+
 
 ## 🏆 Hackathon Goal  
 
