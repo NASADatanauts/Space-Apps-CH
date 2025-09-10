@@ -20,6 +20,7 @@ The judging categories are:
 4. Galactic Impact
 5. Best Local Impact
 6. Best Design Concept
+7. Best Use of Artheficial Intelligence
 ---
 
 ## 🌐 Global NASA Challenges (18)  
