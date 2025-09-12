@@ -45,6 +45,17 @@ No matter your background, there’s a place for you!
 
 ## 💡 Why Participate?
 
+-
+
+## ✅ Register Now
+
+👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
+🛑 *No team changes allowed after Oct 4 kickoff*
+
+---
+
+
+
 <details>
 <summary> ✅ Tackle Real Challenges </summary>
 Use actual datasets from NASA and other agencies on topics like:
@@ -111,7 +122,10 @@ Keep group topics focused to help everyone.
 - 💬 **WhatsApp Group**: [Join the Hackathon Chat](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
 - 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
+## 📞 Contact
 
+**Organizer Contact:**  
+info@space-apps.ch
 
 
 
@@ -206,6 +220,15 @@ Submit under “Create Your Own Challenge” at the global site.
 
 ---
 
+## 🧩 Team Tips
+
+- ⏱️ Start with a rough plan, then build MVP  
+- 🧠 Focus on user impact, not just code  
+- 🧰 Use well-documented datasets  
+- 🤝 Communicate and divide tasks clearly  
+- 📽️ Practice your final pitch early!  
+
+
 ## 🔧 Team Checkpoints (Mandatory)
 
 Each team must attend 3 checkpoints with a mentor. One person must be present per session.
@@ -291,28 +314,3 @@ Global categories include:
 
 ---
 
-## 🧩 Team Tips
-
-- ⏱️ Start with a rough plan, then build MVP  
-- 🧠 Focus on user impact, not just code  
-- 🧰 Use well-documented datasets  
-- 🤝 Communicate and divide tasks clearly  
-- 📽️ Practice your final pitch early!  
-
----
-
-## ✅ Register Now
-
-👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
-🛑 *No team changes allowed after Oct 4 kickoff*
-
----
-
-## 📞 Contact
-
-**Organizer Contact:**  
-Alper Sameglu  
-📞 +41 78 350 09 65
-
-**Coolers/Fridge Delivery Date:** Oct 3  
-**Pick-Up Date:**
