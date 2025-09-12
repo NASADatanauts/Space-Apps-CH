@@ -107,9 +107,6 @@ Make sure to update your project page **before the deadline**.
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
 ---
-🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
-
----
 
 ## 🌐 Virtual Participation
 
