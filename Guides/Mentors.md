@@ -3,7 +3,6 @@
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
 
----
 
 ## 🌌 About NASA Space Apps
 NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
@@ -18,7 +17,6 @@ This year, we encourage teams to:
 
 No matter your background, there’s a place for you!
 
----
 
 ## 💡 Why Participate?
 
@@ -52,24 +50,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
-**Venue Features:**  
-- Fast Wi-Fi & power outlets  
-- Common rooms & meeting spaces  
-- No showers available  
-- Food and drinks provided  
-- Toilets clearly marked on venue map  
 
----
-
-## 🧳 What to Bring (Onsite Participants)
-
-- 💻 Laptop & charger  
-- 🎧 Headphones  
-- 🪪 Valid ID (for venue access)  
-- 🔌 Extension cords or adapters (optional)  
-- 💡 Ideas & enthusiasm  
-
----
 
 ## 🗓️ Event Schedule
 
@@ -77,10 +58,10 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 | Time         | Activity |
 |--------------|----------|
-| 09:00 CET    | Kickoff Session + Breakfast ☕ |
+| 09:00 CET    | Kickoff Session|
 | 11:00–13:00  | 🔍 Checkpoint 1 with Mentors |
 | All Day      | Hackathon continues 💻 |
-| 19:00–21:00  | 🔧 Checkpoint 2 + Dinner 🍽️ |
+| 19:00–21:00  | 🔧 Checkpoint 2|
 
 ### ⏰ SUNDAY, October 5
 
@@ -91,7 +72,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 | 13:00        | 📝 Local Submission Deadline |
 | 13:00–15:00  | Local Judging |
 | 15:00–16:00  | Final Presentations & Guest Panel |
-| 17:00–19:00  | 🎉 Apero + DJ + Local Awards |
+| 17:00–19:00  | 🎉Local Awards |
 | 19:00        | Close of Hackathon |
 
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
@@ -333,8 +314,4 @@ Global categories include:
 ## 📞 Contact
 
 **Organizer Contact:**  
-Alper Sameglu  
-📞 +41 78 350 09 65
-
-**Coolers/Fridge Delivery Date:** Oct 3  
-**Pick-Up Date:**
+info@space-apps.ch
