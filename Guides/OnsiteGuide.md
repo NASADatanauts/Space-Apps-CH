@@ -127,42 +127,6 @@ info@space-apps.ch
 
 
 
-## 🗓️ Event Schedule
-
-### ⏰ SATURDAY, October 4
-
-| Time         | Activity |
-|--------------|----------|
-| 09:00 CET    | Kickoff Session + Breakfast ☕ |
-| 11:00–13:00  | 🔍 Checkpoint 1 with Mentors |
-| All Day      | Hackathon continues 💻 |
-| 19:00–21:00  | 🔧 Checkpoint 2 + Dinner 🍽️ |
-
-### ⏰ SUNDAY, October 5
-
-| Time         | Activity |
-|--------------|----------|
-| Morning      | Breakfast & Hacking Continues |
-| 11:00–13:00  | ✅ Checkpoint 3 (final) |
-| 13:00        | 📝 Local Submission Deadline |
-| 13:00–15:00  | Local Judging |
-| 15:00–16:00  | Final Presentations & Guest Panel |
-| 17:00–19:00  | 🎉 Apero + DJ + Local Awards |
-| 19:00        | Close of Hackathon |
-
-🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
-
-### ⏰ MONDAY, October 6
-
-| Time   | Activity                                      |
-|--------|-----------------------------------------------|
-| 12 AM CET | Final submission at [spaceappschallenge.org](https://spaceappschallenge.org) |
-
-⚠️ After the final submission, **no changes are possible on the website**.  
-Make sure to update your project page **before the deadline**.
-
-
-
 
 ## 🛰️ Challenges Overview
 
@@ -213,6 +177,43 @@ Topics include:
 Submit under “Create Your Own Challenge” at the global site.
 
 ---
+
+
+### 🗓️ Event Schedule
+
+#### ⏰ SATURDAY, October 4
+
+| Time         | Activity |
+|--------------|----------|
+| 09:00 CET    | Kickoff Session + Breakfast ☕ |
+| 11:00–13:00  | 🔍 Checkpoint 1 with Mentors |
+| All Day      | Hackathon continues 💻 |
+| 19:00–21:00  | 🔧 Checkpoint 2 + Dinner 🍽️ |
+
+#### ⏰ SUNDAY, October 5
+
+| Time         | Activity |
+|--------------|----------|
+| Morning      | Breakfast & Hacking Continues |
+| 11:00–13:00  | ✅ Checkpoint 3 (final) |
+| 13:00        | 📝 Local Submission Deadline |
+| 13:00–15:00  | Local Judging |
+| 15:00–16:00  | Final Presentations & Guest Panel |
+| 17:00–19:00  | 🎉 Apero + DJ + Local Awards |
+| 19:00        | Close of Hackathon |
+
+🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
+
+### ⏰ MONDAY, October 6
+
+| Time   | Activity                                      |
+|--------|-----------------------------------------------|
+| 12 AM CET | Final submission at [spaceappschallenge.org](https://spaceappschallenge.org) |
+
+⚠️ After the final submission, **no changes are possible on the website**.  
+Make sure to update your project page **before the deadline**.
+
+
 
 ## 🧩 Team Tips
 
