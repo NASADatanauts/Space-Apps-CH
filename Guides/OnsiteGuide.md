@@ -7,11 +7,20 @@
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
-<details>
-<summary>⚡ The Problem</summary>
 
-One of the biggest challenges in today’s energy systems is the **unpredictability of photovoltaic (PV) production**.  
-...
+## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
+
+**Address:** The Circle 60, CH-8058 Zürich  
+🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
+
+<details>
+<summary>📍 Venue Details </summary>
+**Venue Features:**  
+- Fast Wi-Fi & power outlets  
+- Common rooms & meeting spaces  
+- No showers available  
+- Food and drinks provided  
+- Toilets clearly marked on venue map  
 
 </details>
 
