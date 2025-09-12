@@ -94,6 +94,19 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 | 17:00–19:00  | 🎉 Apero + DJ + Local Awards |
 | 19:00        | Close of Hackathon |
 
+### ⏰ MONDAY, October 6
+
+| Time   | Activity                                      |
+|--------|-----------------------------------------------|
+| 12 AM CET | Final submission at [spaceappschallenge.org](https://spaceappschallenge.org) |
+
+⚠️ After the final submission, **no changes are possible on the website**.  
+Make sure to update your project page **before the deadline**.
+
+
+🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
+
+---
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
 ---
