@@ -1,4 +1,4 @@
-# 🚀 NASA Space Apps Zurich 2025: Participant Guide
+# 🚀 NASA Space Apps Zurich 2025: Expert Mentors Guide
 **For Onsite & Virtual Participants**  
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
@@ -76,16 +76,16 @@ We believe your expertise will inspire and empower participants, and we can’t 
 | Time         | Activity |
 |--------------|----------|
 | 09:00 CET    | Kickoff Session|
-| 11:00–13:00  | 🔍 Checkpoint 1 with Mentors |
+| 11:00–13:00  | 🔍 Checkpoint #1 with Team Mentors |
 | All Day      | Hackathon continues 💻 |
-| 19:00–21:00  | 🔧 Checkpoint 2|
+| 19:00–21:00  | 🔧 Checkpoint #2|
 
 ### ⏰ SUNDAY, October 5
 
 | Time         | Activity |
 |--------------|----------|
 | Morning      | Breakfast & Hacking Continues |
-| 11:00–13:00  | ✅ Checkpoint 3 (final) |
+| 11:00–13:00  | ✅ Checkpoint #3 (final) |
 | 13:00        | 📝 Local Submission Deadline |
 | 13:00–15:00  | Local Judging |
 | 15:00–16:00  | Final Presentations & Guest Panel |
@@ -104,10 +104,6 @@ Make sure to update your project page **before the deadline**.
 
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
----
-🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
-
----
 
 # 🧭 Team Mentor Guide: NASA Space Apps Zurich 2025
 
@@ -115,7 +111,6 @@ Welcome and thank you for supporting the **NASA Space Apps Challenge Zurich 2025
 
 Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or leader.
 
----
 
 ## 🚀 Your Role as a Team Mentor
 
