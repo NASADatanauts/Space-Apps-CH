@@ -23,7 +23,10 @@ No matter your background, there’s a place for you!
 - ▶️ **YouTube**: [Space Apps Challenge Switzerland Channel](https://www.youtube.com/@spaceappsch) 
 - 💬 **WhatsApp Group**: [Join the Conversation](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
 - 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
+## 📞 Contact
 
+**Organizer Contact:**  
+info@space-apps.ch 
 
 ## 💡 Why Participate?
 
@@ -85,6 +88,37 @@ Make sure to update your project page **before the deadline**.
 
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
+
+
+## 🛰️ Challenges Overview
+<img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/f770f67c-4b27-41f7-bb3b-1badaca5b59f" />
+
+### 🌍 Global NASA Challenges
+
+Choose from 18 global challenges such as:
+- Planetary exploration  
+- Ocean ecosystems  
+- Space weather  
+- ISS science  
+
+🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
+
+**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
+
+### 🇨🇭 Zurich Local Challenges
+
+Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
+
+Topics include:
+- **Smart Tourism**: [Smarter Zurich](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%86%203.%20Space%20Data%20for%20a%20Smarter%20%26%20More%20Attractive%20Zurich.md)
+- **Disaster Response**: Save Blatten & Beyond  
+- **Farm to Table**: Food supply chain intelligence  
+- **Energy**: Weather-based grid optimization  
+- **Mobility**: Urban navigation & transport  
+- **Pharma**: Space-enabled Swiss drug research  
+
+Submit under “Create Your Own Challenge” at the global site.
+
 ---
 ## 🇨🇭 Zurich Local Challenges   
 
@@ -142,36 +176,6 @@ After a challenge is chosen and the team is set, the team is created here:
 
 The first person to register automatically becomes the **team leader**, but this is only a platform status and does not necessarily reflect the team’s reality.
 
-
-## 🛰️ Challenges Overview
-
-### 🌍 Global NASA Challenges
-
-Choose from 18 global challenges such as:
-- Planetary exploration  
-- Ocean ecosystems  
-- Space weather  
-- ISS science  
-
-🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
-
-**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
-
-### 🇨🇭 Zurich Local Challenges
-
-Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
-
-Topics include:
-- **Smart Tourism**: [Smarter Zurich](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%86%203.%20Space%20Data%20for%20a%20Smarter%20%26%20More%20Attractive%20Zurich.md)
-- **Disaster Response**: Save Blatten & Beyond  
-- **Farm to Table**: Food supply chain intelligence  
-- **Energy**: Weather-based grid optimization  
-- **Mobility**: Urban navigation & transport  
-- **Pharma**: Space-enabled Swiss drug research  
-
-Submit under “Create Your Own Challenge” at the global site.
-
----
 
 ## 🔧 Team Checkpoints (Mandatory)
 
@@ -275,10 +279,7 @@ Global categories include:
 
 
 
-## 📞 Contact
 
-**Organizer Contact:**  
-info@space-apps.ch 
 
 
 
