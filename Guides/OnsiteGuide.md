@@ -2,10 +2,17 @@
 **For Onsite Participants in Zurich, Switzerland**  
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
+
+<details>
+<summary> 🗺️ Location Details </summary>
+  
 ## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
 
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
+<img width="4032" height="2160" alt="image" src="https://github.com/user-attachments/assets/d3ab01c1-60ea-4222-ba6b-57ca53265c14" />
+
+</details>
 
 <details>
 <summary>📍 Venue Details </summary>
