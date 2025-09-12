@@ -1,4 +1,4 @@
-# 🚀 NASA Space Apps Zurich 2025: Participant Guide
+# 🚀 NASA Space Apps Zurich 2025: Participant Virtual Guide
 **For Virtual Participants**  
 📍 *Location: Online*  
 📅 *Date: October 4–5, 2025*  
