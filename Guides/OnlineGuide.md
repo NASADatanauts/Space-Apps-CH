@@ -17,6 +17,14 @@ This year, we encourage teams to:
 
 No matter your background, there’s a place for you!
 
+## 🌐 Stay Connected  
+
+- 🔗 **LinkedIn**: [Space Apps Challenge Switzerland](https://www.linkedin.com/company/space-apps-ch/)  
+- ▶️ **YouTube**: [Space Apps Challenge Switzerland Channel](https://www.youtube.com/@spaceappsch) 
+- 💬 **WhatsApp Group**: [Join the Conversation](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
+- 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
+
+
 ## 💡 Why Participate?
 
 ### ✅ Tackle Real Challenges
