@@ -115,11 +115,7 @@ Keep group topics focused to help everyone.
 - ▶️ **YouTube**: [Space Apps Channel](https://www.youtube.com/@spaceappsch) 
 - 💬 **WhatsApp Group**: [Join the Hackathon Chat](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
 - 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
-
-## 📞 Contact
-
-**Organizer Contact:**  
-info@space-apps.ch
+-  📞 **Organizer Contact:**  info@space-apps.ch
 
 
 
@@ -235,6 +231,15 @@ Submit under “Create Your Own Challenge” at the global site.
 ⚠️ After the final submission, **no changes are possible on the website**.  
 Make sure to update your project page **before the deadline**.
 
+## 🚀 Got an idea but no team?
+
+Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
+Check the list of registered teams — maybe they need your skills.  
+
+### Team Guidelines
+- **Team size:** 2–5 members  
+- **Skills requirement:** At least 50% of team members must have an engineering or technical background  
+- Collaborate, contribute, and build something amazing together!
 
 
 ## 🧩  Creating a team Team Tips
