@@ -7,9 +7,10 @@
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
-<summary>⚡ Why It Matters</summary>
+<details>
+<summary>⚡ The Problem</summary>
 
-Poor forecasting isn’t just a technical issue—it directly affects the **stability and affordability** of Switzerland’s power grid.  
+One of the biggest challenges in today’s energy systems is the **unpredictability of photovoltaic (PV) production**.  
 ...
 
 </details>
