@@ -7,7 +7,6 @@
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
----
 
 ## 🌌 About NASA Space Apps
 NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
@@ -22,7 +21,6 @@ This year, we encourage teams to:
 
 No matter your background, there’s a place for you!
 
----
 
 ## 💡 Why Participate?
 
@@ -49,9 +47,6 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - 🎟️ Tickets to Red Bull Media World (Lucerne)
 - NASA global recognition!
 
----
-
-
 **Venue Features:**  
 - Fast Wi-Fi & power outlets  
 - Common rooms & meeting spaces  
@@ -59,7 +54,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - Food and drinks provided  
 - Toilets clearly marked on venue map  
 
----
+
 
 ## 🧳 What to Bring (Onsite Participants)
 
@@ -69,7 +64,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - 🔌 Extension cords or adapters (optional)  
 - 💡 Ideas & enthusiasm  
 
----
+
 
 ## 🗓️ Event Schedule
 
@@ -106,7 +101,7 @@ Make sure to update your project page **before the deadline**.
 
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
----
+
 
 ## 🌐 Virtual Participation
 
@@ -115,7 +110,7 @@ If you're joining virtually:
 - Mentorship & checkpoints via video calls (same time slots as onsite)
 - Submit digitally on global platform (see submission guide below)
 
----
+
 
 ## 🛰️ Challenges Overview
 
