@@ -89,6 +89,20 @@ The mission of this hackathon is to:
 - Collaborate with an amazing international and local community  
 
 
+## 💬 Communication Channels
+
+### Main Group (Announcements Only)  
+📲 WhatsApp link shared post-registration
+
+### Sub-Groups:
+- 💡 **Team Formation & Ideas**  
+- 👨‍🏫 **Mentor Q&A**  
+- 📂 **Submission Help**  
+- 🎉 **Networking & Social**  
+
+Keep group topics focused to help everyone.
+
+---
 
 ## 🌐 Stay Connected  
 
@@ -128,6 +142,8 @@ The mission of this hackathon is to:
 | 17:00–19:00  | 🎉 Apero + DJ + Local Awards |
 | 19:00        | Close of Hackathon |
 
+🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
+
 ### ⏰ MONDAY, October 6
 
 | Time   | Activity                                      |
@@ -138,7 +154,21 @@ The mission of this hackathon is to:
 Make sure to update your project page **before the deadline**.
 
 
-🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
+
+
+## 🛰️ Challenges Overview
+
+### 🌍 Global NASA Challenges
+
+Choose from 18 global challenges such as:
+- Planetary exploration  
+- Ocean ecosystems  
+- Space weather  
+- ISS science  
+
+🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
+
+**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
 ## 🇨🇭 Zurich Local Challenges   
 
 In addition to the global challenges, Zurich offers **8 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
@@ -157,28 +187,8 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 
 
 
-## 🌐 Virtual Participation
-
-If you're joining virtually:
-- Join the online kickoff: **Saturday 08:00 CET** *(link provided after registration)*
-- Mentorship & checkpoints via video calls (same time slots as onsite)
-- Submit digitally on global platform (see submission guide below)
 
 
-
-## 🛰️ Challenges Overview
-
-### 🌍 Global NASA Challenges
-
-Choose from 18 global challenges such as:
-- Planetary exploration  
-- Ocean ecosystems  
-- Space weather  
-- ISS science  
-
-🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
-
-**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
 
 ### 🇨🇭 Zurich Local Challenges
 
@@ -231,20 +241,6 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 ---
 
-## 💬 Communication Channels
-
-### Main Group (Announcements Only)  
-📲 WhatsApp link shared post-registration
-
-### Sub-Groups:
-- 💡 **Team Formation & Ideas**  
-- 👨‍🏫 **Mentor Q&A**  
-- 📂 **Submission Help**  
-- 🎉 **Networking & Social**  
-
-Keep group topics focused to help everyone.
-
----
 
 ## 🏆 Judging & Awards
 
