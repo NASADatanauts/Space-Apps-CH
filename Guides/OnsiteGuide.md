@@ -132,58 +132,18 @@ Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.
 <img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/75b9138b-81c8-4eba-995a-978bf4c64d54" />
 
 
-## 🌍 Key Themes 
+## 🌍 NASA Space Apps 2025 – Global Challenges Overview
 
-# 🌍 NASA Space Apps 2025 – Challenges Overview  
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-
-<div>
-
-### 🌍 Earth & Climate  
-- Forecasting air quality  
-- Monitoring flowering plants  
-- Tracking pollution  
-- Predicting weather  
-- Disaster response  
-
-### 🌌 Space Exploration  
-- Designing habitats  
-- Recycling waste on Mars  
-- ISS 25th anniversary apps  
-- Commercializing Low Earth Orbit  
-- AI-powered exoplanet discovery  
-
-</div>
-<div>
-
-### 🌱 Biology & Agriculture  
-- Building knowledge engines for space biology  
-- Sustainable farming simulations  
-- Tracking sharks from space  
-
-### 📊 Data & Visualization  
-- Immersive VR experiences  
-- Massive image zoom tools  
-- SAR-based Earth analysis  
-- Animated Earth science stories  
-
-</div>
-<div>
-
-### 🎓 Education & Storytelling  
-- Children’s books on space weather  
-- Creative animations  
-- Citizen-friendly tools for science communication  
+| Earth & Climate | Space Exploration | Biology & Agriculture | Data & Visualization |
+|-----------------|-----------------|---------------------|--------------------|
+| Forecasting air quality | Designing habitats | Building knowledge engines for space biology | Immersive VR experiences |
+| Monitoring flowering plants | Recycling waste on Mars | Sustainable farming simulations | Massive image zoom tools |
+| Tracking pollution | ISS 25th anniversary apps | Tracking sharks from space | SAR-based Earth analysis | 
+| Predicting weather | Commercializing Low Earth Orbit | | Animated Earth science stories |
+| Disaster response | AI-powered exoplanet discovery |  |
 
 ### 🛠️ Open Innovation  
 - **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data  
-
-</div>
-</div>
-
----
-
 👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
 
 🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
