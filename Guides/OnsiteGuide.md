@@ -1,7 +1,11 @@
-# 🚀 NASA Space Apps Zurich 2025: Participant Guide
+# 🚀 NASA Space Apps Zurich 2025: Participant Guide in Zurich
 **For Onsite & Virtual Participants**  
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
+## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
+
+**Address:** The Circle 60, CH-8058 Zürich  
+🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
 ---
 
@@ -47,10 +51,6 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 ---
 
-## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
-
-**Address:** The Circle 60, CH-8058 Zürich  
-🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
 **Venue Features:**  
 - Fast Wi-Fi & power outlets  
