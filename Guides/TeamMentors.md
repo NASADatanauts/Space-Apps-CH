@@ -200,7 +200,6 @@ Topics include:
 
 Submit under “Create Your Own Challenge” at the global site.
 
----
 
 ## 🔧 Team Checkpoints (Mandatory)
 
