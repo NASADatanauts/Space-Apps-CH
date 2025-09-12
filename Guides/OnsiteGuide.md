@@ -33,8 +33,15 @@ No matter your background, there’s a place for you!
 
 </details>
 
+<details>
+<summary> 🧳 What to Bring (Onsite Participants) </summary>
 
-
+- 💻 Laptop & charger  
+- 🎧 Headphones  
+- 🪪 Valid ID (for venue access)  
+- 🔌 Extension cords or adapters (optional)  
+- 💡 Ideas & enthusiasm  
+</details>
 
 ## 💡 Why Participate?
 
@@ -61,22 +68,11 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - 🎟️ Tickets to Red Bull Media World (Lucerne)
 - NASA global recognition!
 
-**Venue Features:**  
-- Fast Wi-Fi & power outlets  
-- Common rooms & meeting spaces  
-- No showers available  
-- Food and drinks provided  
-- Toilets clearly marked on venue map  
 
 
 
-## 🧳 What to Bring (Onsite Participants)
 
-- 💻 Laptop & charger  
-- 🎧 Headphones  
-- 🪪 Valid ID (for venue access)  
-- 🔌 Extension cords or adapters (optional)  
-- 💡 Ideas & enthusiasm  
+
 
 ---
 
