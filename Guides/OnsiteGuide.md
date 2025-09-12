@@ -125,6 +125,48 @@ info@space-apps.ch
 
 ---
 
+# 🚀 NASA Space Apps Challenge 2025 – Challenge Overview  
+
+This year, participants can choose from **18 global challenges** across a wide range of topics — from AI and Earth science to space habitats and creative storytelling.  
+Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.  
+
+## 🌍 Key Themes  
+
+### Earth & Climate  
+- Forecasting air quality  
+- Monitoring flowering plants  
+- Tracking pollution  
+- Predicting weather  
+- Disaster response  
+
+### Space Exploration  
+- Designing habitats  
+- Recycling waste on Mars  
+- ISS 25th anniversary apps  
+- Commercializing Low Earth Orbit  
+- AI-powered exoplanet discovery  
+
+### Biology & Agriculture  
+- Building knowledge engines for space biology  
+- Sustainable farming simulations  
+- Tracking sharks from space  
+
+### Data & Visualization  
+- Immersive VR experiences  
+- Massive image zoom tools  
+- SAR-based Earth analysis  
+- Animated Earth science stories  
+
+### Education & Storytelling  
+- Children’s books on space weather  
+- Creative animations  
+- Citizen-friendly tools for science communication  
+
+### Open Innovation  
+- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data  
+👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
+
+🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
 
 
 
