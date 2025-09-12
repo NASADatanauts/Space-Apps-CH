@@ -98,6 +98,83 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 ---
 
+# 🧭 Team Mentor Guide: NASA Space Apps Zurich 2025
+
+Welcome and thank you for supporting the **NASA Space Apps Challenge Zurich 2025** as a **Team Mentor**!
+
+Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or leader.
+
+---
+
+## 🚀 Your Role as a Team Mentor
+
+- 🧭 Assigned to 1–3 teams for the full weekend
+- 🧑‍🏫 Provide **3 formal checkpoints** with each team (15 mins each)
+- 📝 Track team progress & share short notes with organizers
+- 🙅 You are **not part of the team** or the submission
+- 💡 Provide feedback on feasibility, design, tech direction, or storytelling
+
+> ⚠️ If you’re a **domain or technical expert** and want to co-create a project, you must be added as a team member and **cannot** be their assigned team mentor.
+
+---
+
+## 🗓️ How the Checkpoints Work
+
+Each team must attend 3 mandatory checkpoints during the hackathon. These checkpoints are **15-minute scheduled sessions**, where you meet your assigned teams to:
+
+1. **Review progress**
+2. **Give feedback**
+3. **Document issues or risks**
+4. **Help clarify goals and deliverables**
+
+### ⏱️ Checkpoint Schedule
+
+| Checkpoint | Date | Time (CET) | Focus |
+|------------|------|------------|-------|
+| CP1 | Sat, Oct 4 | 11:00–13:00 | Team Intro + Project Idea |
+| CP2 | Sat, Oct 4 | 19:00–21:00 | Midpoint Progress & Demo |
+| CP3 | Sun, Oct 5 | 11:00–13:00 | Final Project Check & Demo |
+
+⏳ *You’ll have around 3–4 teams to check in with per checkpoint.*
+
+---
+
+## 📆 Setting Your Calendly Link
+
+To make scheduling easy for teams:
+
+1. Create a **Calendly** account (or equivalent).
+2. Set your availability for:
+   - Saturday 11:00–13:00
+   - Saturday 19:00–21:00
+   - Sunday 11:00–13:00
+3. Share your **booking link** with the organizer by **Oct 1**.
+4. We’ll distribute links to the teams and assign time slots.
+
+> Each team will book a 15-min session during each checkpoint using your link.
+
+---
+
+## 🧩 What to Cover at Each Checkpoint
+
+### ✅ Checkpoint 1 – Team & Idea (Sat 11–13)
+- Team introductions & backgrounds
+- What challenge they chose
+- Initial concept and goal
+- What support or resources they need
+- Check if they understand the data/tools
+- Encourage realistic scope
+
+**Template Notes:**
+```markdown
+Team Name:  
+Challenge:  
+Status: Concept/Brainstorming  
+Support Needed: [Data / Tech / Tools / Scope]  
+Concerns:  
+Next Step:  
+
+
 ## 🌐 Virtual Participation
 
 If you're joining virtually:
