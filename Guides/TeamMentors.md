@@ -1,4 +1,4 @@
-# 🚀 NASA Space Apps Zurich 2025: Participant Guide
+# 🚀 NASA Space Apps Zurich 2025: Team Mentors Guide
 **For Onsite & Virtual Participants**  
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
@@ -84,10 +84,6 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 ⚠️ After the final submission, **no changes are possible on the website**.  
 Make sure to update your project page **before the deadline**.
 
-
-🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
-
----
 🎥 Live-streamed pitches: Yes (details shared on WhatsApp)
 
 ---
