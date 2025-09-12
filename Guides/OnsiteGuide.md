@@ -129,6 +129,8 @@ info@space-apps.ch
 
 This year, participants can choose from **18 global challenges** across a wide range of topics — from AI and Earth science to space habitats and creative storytelling.  
 Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.  
+<img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/75b9138b-81c8-4eba-995a-978bf4c64d54" />
+
 
 ## 🌍 Key Themes  
 
@@ -257,7 +259,11 @@ Make sure to update your project page **before the deadline**.
 
 
 
-## 🧩 Team Tips
+## 🧩  Creating a team Team Tips
+
+
+<img width="3256" height="2257" alt="image" src="https://github.com/user-attachments/assets/081dc0d6-7005-4a33-a84c-130c7e3f61cb" />
+
 
 - ⏱️ Start with a rough plan, then build MVP  
 - 🧠 Focus on user impact, not just code  
@@ -281,6 +287,7 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 ---
 
 ## 📝 Project Submission
+<img width="1422" height="360" alt="image" src="https://github.com/user-attachments/assets/375e84dc-250b-40f1-b848-a2f3b62ecfb6" />
 
 ### 📂 What to Submit on spaceappschallenge.org:
 
