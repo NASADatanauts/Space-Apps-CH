@@ -79,6 +79,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - NASA global recognition!
 </details>
 
+
 ###  Still did not registered yet? Register Now
 
 👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
@@ -231,6 +232,7 @@ Submit under “Create Your Own Challenge” at the global site.
 ⚠️ After the final submission, **no changes are possible on the website**.  
 Make sure to update your project page **before the deadline**.
 
+# Teams
 ## 🚀 Got an idea but no team?
 
 Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
