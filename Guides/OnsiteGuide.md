@@ -3,6 +3,19 @@
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
 
+## 🌌 About NASA Space Apps
+NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
+
+Over 373,000 people in 185 countries have taken part across 2,800+ events.
+
+**2025 Theme: “Learn, Launch, Lead”**  
+This year, we encourage teams to:  
+- 🔬 **Learn** new STEM skills  
+- 🛰️ **Launch** bold ideas using open data  
+- 🌍 **Lead** innovation in their communities  
+
+No matter your background, there’s a place for you!
+
 ## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
 
 **Address:** The Circle 60, CH-8058 Zürich  
@@ -20,18 +33,7 @@
 
 </details>
 
-## 🌌 About NASA Space Apps
-NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
 
-Over 373,000 people in 185 countries have taken part across 2,800+ events.
-
-**2025 Theme: “Learn, Launch, Lead”**  
-This year, we encourage teams to:  
-- 🔬 **Learn** new STEM skills  
-- 🛰️ **Launch** bold ideas using open data  
-- 🌍 **Lead** innovation in their communities  
-
-No matter your background, there’s a place for you!
 
 
 ## 💡 Why Participate?
