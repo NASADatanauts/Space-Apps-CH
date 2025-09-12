@@ -64,6 +64,14 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - 🔌 Extension cords or adapters (optional)  
 - 💡 Ideas & enthusiasm  
 
+---
+
+## 🌐 Stay Connected  
+
+- 🔗 **LinkedIn**: [Space Apps Challenge Switzerland](https://www.linkedin.com/company/space-apps-ch/)  
+- ▶️ **YouTube**: [Space Apps Challenge Switzerland Channel](https://www.youtube.com/@spaceappsch) 
+- 💬 **WhatsApp Group**: [Join the Conversation](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
+- 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
 
 ## 🗓️ Event Schedule
