@@ -50,6 +50,23 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
+To kick things off, we invite you to our **Mentor Onboarding Call**:
+
+📅 **Date:** Monday, 15 September  
+🕒 **Time:** 18:00 CET (Europe/Zurich)  
+📍 **Google Meet link:** [https://linkly.link/2EYth](https://linkly.link/2EYth)  
+🔗 Backup: [https://meet.google.com/twn-pgbf-igj](https://meet.google.com/twn-pgbf-igj)  
+📅 **Add to calendar:** [https://linkly.link/2EYtc](https://linkly.link/2EYtc)
+
+This session will guide you through the mentoring process, answer your questions, and ensure you are fully prepared to support participants during the hackathon.
+
+As part of onboarding, we kindly ask you to:
+- Set up your **Calendly link** so participants can easily book time with you.  
+- Keep **open slots** during the hackathon to provide guidance and feedback.  
+- Join our **WhatsApp chat – Mentors channel**: [https://linkly.link/2EYmf](https://linkly.link/2EYmf)  
+- Keep an eye on our **LinkedIn Page** for your announcements: [https://linkly.link/2E9MY](https://linkly.link/2E9MY)  
+
+We believe your expertise will inspire and empower participants, and we can’t wait to work with you.
 
 
 ## 🗓️ Event Schedule
