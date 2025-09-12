@@ -45,30 +45,57 @@ No matter your background, there’s a place for you!
 
 ## 💡 Why Participate?
 
-### ✅ Tackle Real Challenges
+<details>
+<summary> ✅ Tackle Real Challenges </summary>
 Use actual datasets from NASA and other agencies on topics like:
 - Climate & weather
 - Disaster response
 - Planetary science
 - Agriculture & energy
 
-### ✅ Learn & Skill-Up
+</details>
+
+<details>
+<summary> ✅ Learn & Skill-Up </summary>
+
 Gain hands-on experience with:
 - NASA APIs & satellite data
 - GIS, data visualization & machine learning
 - Jupyter Notebooks, Earthdata, Worldview
 
-### ✅ Connect Globally & Locally
-Meet a global community of thinkers. In Zurich, you’ll be mentored by Swiss university experts, engineers, designers and industry professionals.
+</details>
 
-### ✅ Get Recognized & Win Prizes
+
+<details>
+<summary> ✅ Connect Globally & Locally  </summary>
+Meet a global community of thinkers. In Zurich, you’ll be mentored by Swiss university experts, engineers, designers and industry professionals.
+</details>
+
+<details>
+<summary> ✅ Get Recognized & Win Prizes  </summary>
 Best local projects win Zurich-focused awards and may be nominated for global judging. Prizes include:
 - Tech gadgets
 - Zurich Tourist Cards
 - 🎟️ Tickets to Red Bull Media World (Lucerne)
 - NASA global recognition!
+</details>
+
+## 🏆 Hackathon Goal  
+
+The mission of this hackathon is to:  
+- Leverage **space data** (NASA, ESA, Copernicus, Swiss open data)  
+- Solve **real-world challenges** for Zurich and Switzerland  
+- Build **prototypes, dashboards, models, or apps** in just 48 hours  
+- Collaborate with an amazing international and local community  
 
 
+
+## 🌐 Stay Connected  
+
+- 🔗 **LinkedIn**: [NASA Space Apps Challenge CH](https://www.linkedin.com/company/space-apps-ch/)  
+- ▶️ **YouTube**: [Space Apps Channel](https://www.youtube.com/@spaceappsch) 
+- 💬 **WhatsApp Group**: [Join the Hackathon Chat](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
+- 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
 
 
@@ -76,12 +103,6 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 ---
 
-## 🌐 Stay Connected  
-
-- 🔗 **LinkedIn**: [Space Apps Challenge Switzerland](https://www.linkedin.com/company/space-apps-ch/)  
-- ▶️ **YouTube**: [Space Apps Challenge Switzerland Channel](https://www.youtube.com/@spaceappsch) 
-- 💬 **WhatsApp Group**: [Join the Conversation](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
-- 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
 
 ## 🗓️ Event Schedule
@@ -133,14 +154,6 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 7. 🚦 [Smarter Urban Planning & Navigation for Zurich](./Challenges/🚦7.%20Smarter%20Urban%20Planning%20&%20Navigation%20for%20Zurich%20.md)
 8. 🚨[ Save Blatten & Beyond: Rapid Response to Natural and Man-Made Disasters](Challenges/🚨8.%20Save%20Blatten%20&%20Beyond:%20Rapid%20Response%20to%20Natural%20and%20Man-Made%20Disasters.md)
 
-
-## 🏆 Hackathon Goal  
-
-The mission of this hackathon is to:  
-- Leverage **space data** (NASA, ESA, Copernicus, Swiss open data)  
-- Solve **real-world challenges** for Zurich and Switzerland  
-- Build **prototypes, dashboards, models, or apps** in just 48 hours  
-- Collaborate with an amazing international and local community  
 
 
 
