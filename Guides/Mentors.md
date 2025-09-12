@@ -146,15 +146,13 @@ To make scheduling easy for teams:
 - Check if they understand the data/tools
 - Encourage realistic scope
 
-**Template Notes:**
-```markdown
+
 Team Name:  
 Challenge:  
 Status: Concept/Brainstorming  
 Support Needed: [Data / Tech / Tools / Scope]  
 Concerns:  
 Next Step:  
-
 
 ## 🌐 Virtual Participation
 
