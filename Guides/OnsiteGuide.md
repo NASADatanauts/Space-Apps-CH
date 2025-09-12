@@ -45,17 +45,6 @@ No matter your background, there’s a place for you!
 
 ## 💡 Why Participate?
 
--
-
-## ✅ Register Now
-
-👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
-🛑 *No team changes allowed after Oct 4 kickoff*
-
----
-
-
-
 <details>
 <summary> ✅ Tackle Real Challenges </summary>
 Use actual datasets from NASA and other agencies on topics like:
@@ -63,7 +52,6 @@ Use actual datasets from NASA and other agencies on topics like:
 - Disaster response
 - Planetary science
 - Agriculture & energy
-
 </details>
 
 <details>
@@ -91,6 +79,13 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 - NASA global recognition!
 </details>
 
+###  Still did not registered yet? Register Now
+
+👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
+🛑 *No team changes allowed after Oct 3th 23:59 CET*
+
+
+
 ## 🏆 Hackathon Goal  
 
 The mission of this hackathon is to:  
@@ -113,7 +108,6 @@ The mission of this hackathon is to:
 
 Keep group topics focused to help everyone.
 
----
 
 ## 🌐 Stay Connected  
 
@@ -287,7 +281,6 @@ Only teams working on **Zurich Local Challenges** are eligible for local prizes.
 
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 
----
 
 ### 🌍 NASA Global Awards
 
@@ -312,5 +305,4 @@ Global categories include:
 - [NASA Open GitHub](https://github.com/nasa)  
 - Python, R, Jupyter, QGIS, TensorFlow, D3.js  
 
----
 
