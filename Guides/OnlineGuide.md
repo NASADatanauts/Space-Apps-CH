@@ -106,7 +106,6 @@ Choose from 18 global challenges such as:
 **Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
 
 ### 🇨🇭 Zurich Local Challenges
-
 Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
 
 Topics include:
