@@ -261,6 +261,9 @@ Keep group topics focused to help everyone.
 
 ## 🏆 Judging & Awards
 
+<img width="1180" height="331" alt="image" src="https://github.com/user-attachments/assets/c622f4b0-27ae-4b99-acab-240eaf60e553" />
+
+
 ### 🎖️ Zurich Local Awards
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 Both onsite and virtual teams qualify for the same awards. 
