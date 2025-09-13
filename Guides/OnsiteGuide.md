@@ -281,6 +281,8 @@ All checkpoints done via Google Meet or Zoom calls.
 
 ## 🏆 Judging & Awards
 
+<img width="1180" height="331" alt="image" src="https://github.com/user-attachments/assets/a4a1bf21-6bf9-49f2-a2b8-24019229c264" />
+
 ### 🎖️ Zurich Local Awards
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 Both onsite and virtual teams qualify for the same awards. 
