@@ -60,10 +60,26 @@ Make sure to update your project page **before the deadline**.
 - 💬 **WhatsApp Group**: [Join the Conversation](https://chat.whatsapp.com/JLeDikv1RA7291wSZs6rse) 
 - 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
+## 🛰️ NASA Space Apps 2025 – Global Challenges Overview
 
+| Earth & Climate | Space Exploration | Biology & Agriculture | Data & Visualization |
+|-----------------|-----------------|---------------------|--------------------|
+| Forecasting air quality | Designing habitats | Building knowledge engines for space biology | Immersive VR experiences |
+| Monitoring flowering plants | Recycling waste on Mars | Sustainable farming simulations | Massive image zoom tools |
+| Tracking pollution | ISS 25th anniversary apps | Tracking sharks from space | SAR-based Earth analysis | 
+| Predicting weather | Commercializing Low Earth Orbit | | Animated Earth science stories |
+| Disaster response | AI-powered exoplanet discovery | Open Innovation  |
+
+- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data. Show your creativity and inspiration. 
+Also, **global and your own challenges do not qualify for local awards**, only for global nominations.  
+👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
+🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
+**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
+  
 ## 🇨🇭 Zurich Local Challenges   
 
 In addition to the global challenges, Zurich offers **8 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
+
 
 ### 📂 Local Challenge Files in This Repo
 
