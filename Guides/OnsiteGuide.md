@@ -16,7 +16,7 @@ This year, we encourage teams to:
 
 No matter your background, there’s a place for you!
 
-## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
+### 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
 
 **Address:** The Circle 60, CH-8058 Zürich  
 🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
