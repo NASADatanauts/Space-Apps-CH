@@ -159,13 +159,50 @@ To make scheduling easy for teams:
 
 ## 🧩 What to Cover at Each Checkpoint
 
-### ✅ Checkpoint 1 – Team & Idea (Sat 11–13)
-- Team introductions & backgrounds
-- What challenge they chose
-- Initial concept and goal
-- What support or resources they need
-- Check if they understand the data/tools
-- Encourage realistic scope
+
+
+### ✅ Checkpoint 1 – Team & Idea *(Saturday, 11:00–13:00)*
+
+**Focus:** Getting to know the teams and ensuring a strong start.
+
+**What to cover:**
+- Team introductions and backgrounds  
+- Which **challenge** the team selected  
+- Initial **concept and project goal**  
+- What **support or resources** they need (data, tools, mentoring, etc.)  
+- Check if they **understand the challenge, data, and tools**  
+- Encourage teams to keep the **scope realistic and achievable**  
+- Emphasize that **local Swiss challenges are the top priority**, followed by global ones  
+
+
+### ✅ Checkpoint 2 – Progress Check *(Saturday, 19:00–21:00)*
+
+**Focus:** Tracking progress and refining the project direction.
+
+**What to cover:**
+- Team progress since Checkpoint 1  
+- Clarify or redefine the **problem statement** if needed  
+- Ensure the **chosen challenge is well understood**  
+- Confirm they are using the **correct data/tools**  
+- Check alignment with **local Swiss challenges first**, then global ones  
+- Help define clear next steps and resolve any blockers  
+- Offer mentorship or redirect to relevant resources  
+
+
+### ✅ Checkpoint 3 – Final Submission Check *(Sunday, 11:00–13:00)*
+
+**Focus:** Preparing for successful final submission.
+
+**What to check:**
+- Has the team created a **project space and submitted** on the [global Space Apps website](https://www.spaceappschallenge.org/)?  
+- Does the **team composition match** what was recorded at Checkpoint 1?  
+- Is there a **working demo or prototype** ready?  
+- Have they created and uploaded their **2-minute project video** (required)?  
+- If available, have they linked a **slide deck** on their team project page?  
+- Offer last-minute help or guidance on **submission format, uploads, or final pitch**  
+
+---
+
 
 
 | **Field**         | **Details**                  |
