@@ -84,6 +84,9 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 
 
 ### 📂 Local Challenge Files in This Repo
+Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
+
+Topics include:
 
 1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](../Challenges/🌱1.%20From%20Farm%20to%20Table%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md) 
 2. ⚡ [Smarter Energy Planning with Weather Forecasts](../Challenges/⚡%202.%20Smarter%20Energy%20Planning%20with%20Weather%20Forecasts.md)  
@@ -94,6 +97,7 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 7. 🚦 [Smarter Urban Planning & Navigation for Zurich](../Challenges/🚦7.%20Smarter%20Urban%20Planning%20&%20Navigation%20for%20Zurich%20.md)
 8. 🚨[ Save Blatten & Beyond: Rapid Response to Natural and Man-Made Disasters](../Challenges/🚨8.%20Save%20Blatten%20&%20Beyond:%20Rapid%20Response%20to%20Natural%20and%20Man-Made%20Disasters.md)
 
+Teams submit under “Create Your Own Challenge” at the global site.
 
 ## 🏆 Hackathon Goal  
 
@@ -173,35 +177,6 @@ To make scheduling easy for teams:
 | Concerns          |                              |
 | Next Step         |                              |
  
-
-## 🛰️ Challenges Overview
-
-### 🌍 Global NASA Challenges
-
-Choose from 18 global challenges such as:
-- Planetary exploration  
-- Ocean ecosystems  
-- Space weather  
-- ISS science  
-
-🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
-
-**Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
-
-### 🇨🇭 Zurich Local Challenges
-
-Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
-
-Topics include:
-- **Smart Tourism**: [Smarter Zurich](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%86%203.%20Space%20Data%20for%20a%20Smarter%20%26%20More%20Attractive%20Zurich.md)
-- **Disaster Response**: Save Blatten & Beyond  
-- **Farm to Table**: Food supply chain intelligence  
-- **Energy**: Weather-based grid optimization  
-- **Mobility**: Urban navigation & transport  
-- **Pharma**: Space-enabled Swiss drug research  
-
-Submit under “Create Your Own Challenge” at the global site.
-
 
 ## 🔧 Team Checkpoints (Mandatory)
 
