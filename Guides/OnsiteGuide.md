@@ -214,7 +214,7 @@ Submit under “Create Your Own Challenge” at the global SpaceApps Challenge s
 Make sure to update your project page **before the deadline**.
 
 # Teams
-<img width="3256" height="2257" alt="image" src="https://github.com/user-attachments/assets/081dc0d6-7005-4a33-a84c-130c7e3f61cb" />
+<img width="762" height="188" alt="image" src="https://github.com/user-attachments/assets/e11eb641-a764-4863-aaf7-696abfbf0834" />
 
 ### Team Guidelines
 - **Team size:** 2–5 members  
