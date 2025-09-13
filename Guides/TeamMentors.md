@@ -1,5 +1,4 @@
-# 🚀 NASA Space Apps Zurich 2025: Team Mentors Guide
-# 🧭 Team Mentor Guide: NASA Space Apps Zurich 2025
+# 🚀  Team Mentor Guide: NASA Space Apps Zurich 2025
 **All Mentors join as Virtual Participants**  
 📍 *Location: Virtual or from Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
@@ -99,6 +98,7 @@ The mission of this hackathon is to:
 - 📝 Track team progress & share short notes with organizers
 - 🙅 You are **not part of the team** or the submission
 - 💡 Provide feedback on feasibility, design, tech direction, or storytelling
+- 🧭 Help team with find right resources, connect with expert mentors and more
 
 > ⚠️ If you’re a **domain or technical expert** and want to co-create a project, you must be added as a team member and **cannot** be their assigned team mentor.
 
