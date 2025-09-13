@@ -81,9 +81,17 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 
 **Still did not registered yet? Register Now**
-
 👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
+🔹 Onsite participation in Zurich is limited to 100 people.
+🔹 Virtual participation has no limits.
 
+Every team member must:
+- Register on the website.
+- Select **Zurich as your location** here https://www.spaceappschallenge.org/2025/local-events/zurich/
+- Fill out the short form.
+- Once that’s done—you’re officially in! ✅
+
+⚠️ If the onsite capacity is full, only already-formed teams will be allowed to join at the venue. No team-building activities will take place onsite, so be sure to select your challenge and team before the hackathon.
 
 
 
@@ -93,7 +101,8 @@ The mission of this hackathon is to:
 - Leverage **space data** (NASA, ESA, Copernicus, Swiss open data)  
 - Solve **real-world challenges** for Zurich and Switzerland  
 - Build **prototypes, dashboards, models, or apps** in just 48 hours  
-- Collaborate with an amazing international and local community  
+- Collaborate with an amazing international and local community
+- Think beyond what is possible, be creative,  inspire the next generation to come and explore space. 
 
 
 ## 💬 Communication 
