@@ -70,8 +70,9 @@ Make sure to update your project page **before the deadline**.
 | Predicting weather | Commercializing Low Earth Orbit | | Animated Earth science stories |
 | Disaster response | AI-powered exoplanet discovery | Open Innovation  |
 
-- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data. Show your creativity and inspiration. 
-Also, **global and your own challenges do not qualify for local awards**, only for global nominations.  
+- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data. Show your creativity and inspiration.
+- Also, **global and your own challenges do not qualify for local awards**, only for global nominations.
+  
 👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
 🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
 **Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
