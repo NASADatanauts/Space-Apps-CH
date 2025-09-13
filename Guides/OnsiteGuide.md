@@ -309,6 +309,11 @@ Teams working on Global Challenges qualify only for global nomination.
 
 Judged separately by NASA panel after the event.
 
+Here are the public dates for this year’s Global Judging
+**🏅Global Nominees:** November 5 2025
+**🏅Global Finalists:** November 26 2025
+**🏅Honorable Mentions:**  November 26 2025
+**🏅Global Winners:** December 18 2025
 
 
 ## 🧠 Tools & Resources
