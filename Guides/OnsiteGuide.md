@@ -227,7 +227,7 @@ Post your idea in the **WhatsApp chat** and pitch it to fellow participants!
 Check the list of registered teams — maybe they need your skills.  
 
 
-## 🧩  Creating a team Team Tips
+## 🧩  How to work in teams
 
 - ⏱️ Start with a rough plan, then build MVP  
 - 🧠 Focus on user impact, not just code  
@@ -267,6 +267,9 @@ All checkpoints done via Google Meet or Zoom calls.
 
 📌 **Zurich Local Submission Deadline:**  
 🕐 Sunday, Oct 5 – 13:00 CET *(via Google Form – link announced soon)*
+Prepare a 3 min video presentation about your project.
+Prepare live demo
+Document your project at https://www.spaceappschallenge.org/
 
 📌 **Global Submission Deadline:**  
 🕛 Monday, Oct 6 – 23:59 EDT
