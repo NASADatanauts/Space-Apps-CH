@@ -140,7 +140,8 @@ Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.
 | Predicting weather | Commercializing Low Earth Orbit | | Animated Earth science stories |
 | Disaster response | AI-powered exoplanet discovery | Open Innovation  |
 
-- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data  
+- **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data. Show your creativity and inspiration. 
+Also, **global and your own challenges do not qualify for local awards**, only for global nominations.  
 👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
 🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
 **Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
@@ -150,7 +151,9 @@ Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.
 In addition to the global challenges, Zurich offers **8 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
 
 ### 📂 Local Challenge Files in This Repo
+Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
 
+Topics include:
 1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](./Challenges/🌱1.%20From%20Farm%20to%20Table%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md) 
 2. ⚡ [Smarter Energy Planning with Weather Forecasts](./Challenges/⚡%202.%20Smarter%20Energy%20Planning%20with%20Weather%20Forecasts.md)  
 3. 🌆 [Space Data for a Smarter & More Attractive Zurich](./Challenges/🌆%203.%20Space%20Data%20for%20a%20Smarter%20&%20More%20Attractive%20Zurich.md)  
@@ -161,24 +164,8 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 8. 🚨[ Save Blatten & Beyond: Rapid Response to Natural and Man-Made Disasters](Challenges/🚨8.%20Save%20Blatten%20&%20Beyond:%20Rapid%20Response%20to%20Natural%20and%20Man-Made%20Disasters.md)
 
 
-
-
-
-
-
-### 🇨🇭 Zurich Local Challenges
-
-Solve Swiss-relevant challenges using NASA/ESA/Swiss data.
-
-Topics include:
-- **Smart Tourism**: [Smarter Zurich](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%86%203.%20Space%20Data%20for%20a%20Smarter%20%26%20More%20Attractive%20Zurich.md)
-- **Disaster Response**: Save Blatten & Beyond  
-- **Farm to Table**: Food supply chain intelligence  
-- **Energy**: Weather-based grid optimization  
-- **Mobility**: Urban navigation & transport  
-- **Pharma**: Space-enabled Swiss drug research  
-
 Submit under “Create Your Own Challenge” at the global SpaceApps Challenge site.
+
 
 ---
 
@@ -218,6 +205,7 @@ Submit under “Create Your Own Challenge” at the global SpaceApps Challenge s
 Make sure to update your project page **before the deadline**.
 
 # Teams
+<img width="3256" height="2257" alt="image" src="https://github.com/user-attachments/assets/081dc0d6-7005-4a33-a84c-130c7e3f61cb" />
 
 ### Team Guidelines
 - **Team size:** 2–5 members  
@@ -230,9 +218,6 @@ Post your idea in the **WhatsApp chat** and pitch it to fellow participants!
 Check the list of registered teams — maybe they need your skills.  
 
 
-
-<img width="3256" height="2257" alt="image" src="https://github.com/user-attachments/assets/081dc0d6-7005-4a33-a84c-130c7e3f61cb" />
-
 ## 🧩  Creating a team Team Tips
 
 - ⏱️ Start with a rough plan, then build MVP  
@@ -244,16 +229,18 @@ Check the list of registered teams — maybe they need your skills.
 
 ## 🔧 Team Checkpoints (Mandatory)
 
-Each team must attend 3 checkpoints with a mentor. One person must be present per session.
+Each team must attend 3 checkpoints with a mentor. One person must be present per session online. 
+All checkpoints done via Google Meet or Zoom calls. 
 
 | Checkpoint | Time (CET)        | Focus |
 |------------|------------------|-------|
-| CP1        | Sat 11:00–13:00  | Team intro, idea presentation |
-| CP2        | Sat 19:00–21:00  | Progress demo, mentor help |
-| CP3        | Sun 11:00–13:00  | Final working demo or recording |
+| #1        | Sat 11:00–13:00  | Team intro, idea presentation |
+| #2        | Sat 19:00–21:00  | Progress demo, mentor help |
+| #3        | Sun 11:00–13:00  | Final working demo or recording |
 
 📌 Teams **not attending all checkpoints** are disqualified from local judging.
-
+📌 At least one person should be present for the checkpoint calls, whole team is not mandatory.
+📌 Team mentors will be joining evaluations for the global nomination, so make sure you're following all checkpoints.
 🛑 *No team changes allowed after Oct 3th 23:59 CET*
 
 
@@ -264,18 +251,18 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 - ✅ Project Summary  
 - ✅ Challenge name (Global or Zurich Local)  
-- ✅ Project Demo (video or live prototype)  
+- ✅ Project Demo (3 min video or live prototype link)  
 - ✅ Code repository (GitHub or similar)  
 - ✅ Team member list  
 - ✅ Data used (NASA, ESA, Swiss, etc.)
 
 📌 **Zurich Local Submission Deadline:**  
-🕐 Sunday, Oct 5 – 13:00 CET *(via Google Form – link announced)*
+🕐 Sunday, Oct 5 – 13:00 CET *(via Google Form – link announced soon)*
 
 📌 **Global Submission Deadline:**  
 🕛 Monday, Oct 6 – 23:59 EDT
 
-💡 Local teams **must submit** globally as well for eligibility.
+💡 Local teams **must submit** globally as well for eligibility https://www.spaceappschallenge.org/.
 
 ---
 
@@ -284,6 +271,7 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 ### 🎖️ Zurich Local Awards
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
+Both onsite and virtual teams qualify for the same awards. 
 
 Only teams working on **Zurich Local Challenges** are eligible for local prizes and rewards.
 Teams working on Global Challenges qualify only for global nomination.
@@ -302,12 +290,13 @@ Teams working on Global Challenges qualify only for global nomination.
 - Zurich City Tourist Cards  
 - Gadgets, certificates & more
 
+Physical prizes, local network cards, and etc can not be sent to another country or city or given to people, who isn't residents of Switzerland.
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 
 
 ### 🌍 NASA Global Awards
 
-Judged separately by NASA panel after the event.
+Judged separately select finalists out of Global Nomination cohort by NASA team after the hackathon.
 
 Here are the public dates for this year’s Global Judging
 **🏅Global Nominees:** November 5 2025
