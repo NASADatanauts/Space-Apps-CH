@@ -1,5 +1,5 @@
 # 🚀 NASA Space Apps Zurich 2025: Team Mentors Guide
-**For Onsite & Virtual Participants**  
+**For Virtual Participants**  
 📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
 
@@ -24,37 +24,6 @@ No matter your background, there’s a place for you!
 - 🌍 **Website**: [spaceappschallenge.ch](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 
 
-## 💡 Why Participate?
-
-### ✅ Tackle Real Challenges
-Use actual datasets from NASA and other agencies on topics like:
-- Climate & weather
-- Disaster response
-- Planetary science
-- Agriculture & energy
-
-### ✅ Learn & Skill-Up
-Gain hands-on experience with:
-- NASA APIs & satellite data
-- GIS, data visualization & machine learning
-- Jupyter Notebooks, Earthdata, Worldview
-
-### ✅ Connect Globally & Locally
-Meet a global community of thinkers. In Zurich, you’ll be mentored by Swiss university experts, engineers, designers and industry professionals.
-
-### ✅ Get Recognized & Win Prizes
-Best local projects win Zurich-focused awards and may be nominated for global judging. Prizes include:
-- Tech gadgets
-- Zurich Tourist Cards
-- 🎟️ Tickets to Red Bull Media World (Lucerne)
-- NASA global recognition!
-
----
-
-## 📍 Venue Details – Novu Campus @ The Circle, Zurich Airport
-
-**Address:** The Circle 60, CH-8058 Zürich  
-🗺️ [Venue Map](https://www.flughafen-zuerich.ch/en/passengers/practical/guidance/interactive-map?scenario=onePOI&we_id=765)
 
 
 
@@ -185,19 +154,16 @@ To make scheduling easy for teams:
 - Encourage realistic scope
 
 
-Team Name:  
-Challenge:  
-Status: Concept/Brainstorming  
-Support Needed: [Data / Tech / Tools / Scope]  
-Concerns:  
-Next Step:  
+| **Field**         | **Details**                  |
+|-------------------|------------------------------|
+| Team Name         |                              |
+| Challenge         |                              |
+| Status            | Concept/Brainstorming        |
+| Support Needed    | [Data / Tech / Tools / Scope]|
+| Concerns          |                              |
+| Next Step         |                              |
+ 
 
-## 🌐 Virtual Participation
-
-If you're joining virtually:
-- Join the online kickoff: **Saturday 08:00 CET** *(link provided after registration)*
-- Mentorship & checkpoints via video calls (same time slots as onsite)
-- Submit digitally on global platform (see submission guide below)
 
 ---
 
@@ -242,6 +208,17 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 📌 Teams **not attending all checkpoints** are disqualified from local judging.
 
+## 🧩 Team Tips
+
+- ⏱️ Start with a rough plan, then build MVP  
+- 🧠 Focus on user impact, not just code  
+- 🧰 Use well-documented datasets  
+- 🤝 Communicate and divide tasks clearly  
+- 📽️ Practice your final pitch early!  
+
+---
+
+
 ---
 
 ## 📝 Project Submission
@@ -263,7 +240,6 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 💡 Local teams **must submit** globally as well for eligibility.
 
----
 
 ## 💬 Communication Channels
 
@@ -278,7 +254,6 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 Keep group topics focused to help everyone.
 
----
 
 ## 🏆 Judging & Awards
 
@@ -299,10 +274,11 @@ Only teams working on **Zurich Local Challenges** are eligible for local prizes.
 - Red Bull Media World tickets  
 - Zurich City Tourist Cards  
 - Gadgets, certificates & more
+- pitch and dinner with sponsors
+- opportunity to continue work with your project with SpaceTech Accelerator Program
 
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 
----
 
 ### 🌍 NASA Global Awards
 
@@ -316,7 +292,6 @@ Global categories include:
 - Local Impact  
 - Best Use of Science  
 
----
 
 ## 🧠 Tools & Resources
 
@@ -327,26 +302,4 @@ Global categories include:
 - [NASA Open GitHub](https://github.com/nasa)  
 - Python, R, Jupyter, QGIS, TensorFlow, D3.js  
 
----
 
-## 🧩 Team Tips
-
-- ⏱️ Start with a rough plan, then build MVP  
-- 🧠 Focus on user impact, not just code  
-- 🧰 Use well-documented datasets  
-- 🤝 Communicate and divide tasks clearly  
-- 📽️ Practice your final pitch early!  
-
----
-
-## ✅ Register Now
-
-👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
-🛑 *No team changes allowed after Oct 4 kickoff*
-
----
-
-## 📞 Contact
-
-**Organizer Contact:**  
-info@space-apps.ch
