@@ -5,7 +5,8 @@
 
 Welcome and thank you for supporting the **NASA Space Apps Challenge Zurich 2025** as a **Team Mentor**!
 
-Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or leader.
+Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or team leader.
+
 ## 🌌 About NASA Space Apps
 NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
 
