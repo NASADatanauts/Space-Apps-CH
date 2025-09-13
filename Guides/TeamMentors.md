@@ -233,12 +233,40 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 Keep group topics focused to help everyone.
 
+## 📝 Project Submission
+<img width="1422" height="360" alt="image" src="https://github.com/user-attachments/assets/375e84dc-250b-40f1-b848-a2f3b62ecfb6" />
+
+### 📂 What to Submit on spaceappschallenge.org:
+
+- ✅ Project Summary  
+- ✅ Challenge name (Global or Zurich Local)  
+- ✅ Project Demo (3 min video or live prototype link)  
+- ✅ Code repository (GitHub or similar)  
+- ✅ Team member list  
+- ✅ Data used (NASA, ESA, Swiss, etc.)
+
+📌 **Zurich Local Submission Deadline:**  
+🕐 Sunday, Oct 5 – 13:00 CET *(via Google Form – link announced soon)*
+- Prepare a 3 min video presentation about your project.
+- Prepare live demo
+- Document your project at https://www.spaceappschallenge.org/
+
+📌 **Global Submission Deadline:**  
+🕛 Monday, Oct 6 – 23:59 EDT
+
+💡 Local teams **must submit** globally as well for eligibility https://www.spaceappschallenge.org/.
+
+---
+
 
 ## 🏆 Judging & Awards
 
 ### 🎖️ Zurich Local Awards
+🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
+Both onsite and virtual teams qualify for the same awards. 
 
-Only teams working on **Zurich Local Challenges** are eligible for local prizes.
+Only teams working on **Zurich Local Challenges** are eligible for local prizes and rewards.
+Teams working on Global Challenges qualify only for global nomination.
 
 **Categories:**
 1. Best Use of Data & Science  
@@ -253,23 +281,20 @@ Only teams working on **Zurich Local Challenges** are eligible for local prizes.
 - Red Bull Media World tickets  
 - Zurich City Tourist Cards  
 - Gadgets, certificates & more
-- pitch and dinner with sponsors
-- opportunity to continue work with your project with SpaceTech Accelerator Program
 
+Physical prizes, local network cards, and etc can not be sent to another country or city or given to people, who isn't residents of Switzerland.
 🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 
 
 ### 🌍 NASA Global Awards
 
-Judged separately by NASA panel after the event.
+Judged separately select finalists out of Global Nomination cohort by NASA team after the hackathon.
 
-Global categories include:
-- Best Use of Data  
-- Best Use of Technology  
-- Best Storytelling  
-- Galactic Impact  
-- Local Impact  
-- Best Use of Science  
+Here are the public dates for this year’s Global Judging
+- **🏅Global Nominees:** November 5 2025
+- **🏅Global Finalists:** November 26 2025
+- **🏅Honorable Mentions:**  November 26 2025
+- **🏅Global Winners:** December 18 2025
 
 
 ## 🧠 Tools & Resources
@@ -280,5 +305,3 @@ Global categories include:
 - [Atlas der Schweiz](https://www.atlasderschweiz.ch)  
 - [NASA Open GitHub](https://github.com/nasa)  
 - Python, R, Jupyter, QGIS, TensorFlow, D3.js  
-
-
