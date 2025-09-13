@@ -1,9 +1,12 @@
 # 🚀 NASA Space Apps Zurich 2025: Team Mentors Guide
-**For Virtual Participants**  
-📍 *Location: Novu Campus, The Circle, Zurich Airport, Switzerland*  
+# 🧭 Team Mentor Guide: NASA Space Apps Zurich 2025
+**All Mentors join as Virtual Participants**  
+📍 *Location: Virtual or from Novu Campus, The Circle, Zurich Airport, Switzerland*  
 📅 *Date: October 4–5, 2025*  
 
+Welcome and thank you for supporting the **NASA Space Apps Challenge Zurich 2025** as a **Team Mentor**!
 
+Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or leader.
 ## 🌌 About NASA Space Apps
 NASA’s Space Apps Challenge is the world’s largest global hackathon. It invites participants of all backgrounds to use NASA’s open data – and data from 14 other space agencies – to solve real-world problems on Earth and in space.
 
@@ -86,13 +89,8 @@ The mission of this hackathon is to:
 - Collaborate with an amazing international and local community  
 
 
-# 🧭 Team Mentor Guide: NASA Space Apps Zurich 2025
 
-Welcome and thank you for supporting the **NASA Space Apps Challenge Zurich 2025** as a **Team Mentor**!
 
-Mentors play a vital role in guiding teams through the hackathon weekend, helping them stay focused, refine ideas, and get unstuck. You’re the team’s sounding board and supporter – not their developer or leader.
-
----
 
 ## 🚀 Your Role as a Team Mentor
 
@@ -103,8 +101,6 @@ Mentors play a vital role in guiding teams through the hackathon weekend, helpin
 - 💡 Provide feedback on feasibility, design, tech direction, or storytelling
 
 > ⚠️ If you’re a **domain or technical expert** and want to co-create a project, you must be added as a team member and **cannot** be their assigned team mentor.
-
----
 
 ## 🗓️ How the Checkpoints Work
 
@@ -125,7 +121,6 @@ Each team must attend 3 mandatory checkpoints during the hackathon. These checkp
 
 ⏳ *You’ll have around 3–4 teams to check in with per checkpoint.*
 
----
 
 ## 📆 Setting Your Calendly Link
 
@@ -141,7 +136,6 @@ To make scheduling easy for teams:
 
 > Each team will book a 15-min session during each checkpoint using your link.
 
----
 
 ## 🧩 What to Cover at Each Checkpoint
 
@@ -163,9 +157,6 @@ To make scheduling easy for teams:
 | Concerns          |                              |
 | Next Step         |                              |
  
-
-
----
 
 ## 🛰️ Challenges Overview
 
@@ -216,10 +207,7 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 - 🤝 Communicate and divide tasks clearly  
 - 📽️ Practice your final pitch early!  
 
----
 
-
----
 
 ## 📝 Project Submission
 
