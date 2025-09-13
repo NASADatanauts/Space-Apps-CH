@@ -311,10 +311,10 @@ Physical prizes, local network cards, and etc can not be sent to another country
 Judged separately select finalists out of Global Nomination cohort by NASA team after the hackathon.
 
 Here are the public dates for this year’s Global Judging
-**🏅Global Nominees:** November 5 2025
-**🏅Global Finalists:** November 26 2025
-**🏅Honorable Mentions:**  November 26 2025
-**🏅Global Winners:** December 18 2025
+-**🏅Global Nominees:** November 5 2025
+-**🏅Global Finalists:** November 26 2025
+-**🏅Honorable Mentions:**  November 26 2025
+-**🏅Global Winners:** December 18 2025
 
 
 ## 🧠 Tools & Resources
