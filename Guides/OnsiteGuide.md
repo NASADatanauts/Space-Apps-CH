@@ -80,10 +80,10 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 </details>
 
 
-###  Still did not registered yet? Register Now
+**Still did not registered yet? Register Now**
 
 👉 https://www.spaceappschallenge.org/2025/local-events/zurich/  
-🛑 *No team changes allowed after Oct 3th 23:59 CET*
+
 
 
 
@@ -96,10 +96,11 @@ The mission of this hackathon is to:
 - Collaborate with an amazing international and local community  
 
 
-## 💬 Communication Channels
+## 💬 Communication 
 
-### Main Group (Announcements Only)  
-📲 WhatsApp link shared post-registration
+### 📲 WhatsApp chat
+Main Group (Announcements Only)  
+📲 WhatsApp link shared post-registration to your mail. 
 
 ### Sub-Groups:
 - 💡 **Team Formation & Ideas**  
@@ -129,7 +130,7 @@ Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.
 <img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/75b9138b-81c8-4eba-995a-978bf4c64d54" />
 
 
-## 🌍 NASA Space Apps 2025 – Global Challenges Overview
+## 🛰️ NASA Space Apps 2025 – Global Challenges Overview
 
 | Earth & Climate | Space Exploration | Biology & Agriculture | Data & Visualization |
 |-----------------|-----------------|---------------------|--------------------|
@@ -137,29 +138,13 @@ Challenges span all skill levels: **Beginner, Intermediate, and Advanced**.
 | Monitoring flowering plants | Recycling waste on Mars | Sustainable farming simulations | Massive image zoom tools |
 | Tracking pollution | ISS 25th anniversary apps | Tracking sharks from space | SAR-based Earth analysis | 
 | Predicting weather | Commercializing Low Earth Orbit | | Animated Earth science stories |
-| Disaster response | AI-powered exoplanet discovery |  |
+| Disaster response | AI-powered exoplanet discovery | Open Innovation  |
 
-### 🛠️ Open Innovation  
 - **Create Your Own Challenge** → Teams have full freedom to explore any idea with NASA data  
 👉 Whether you’re into **AI, coding, design, storytelling, or space science**, there’s a challenge for you.  
-
 🔗 Explore all 18 challenges: [NASA Space Apps 2025 Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
-
-
-
-## 🛰️ Challenges Overview
-
-### 🌍 Global NASA Challenges
-
-Choose from 18 global challenges such as:
-- Planetary exploration  
-- Ocean ecosystems  
-- Space weather  
-- ISS science  
-
-🔗 Browse challenges: [spaceappschallenge.org](https://www.spaceappschallenge.org/2025/challenges/)
-
 **Example Challenge:** [Will it Rain on My Parade?](https://www.spaceappschallenge.org/2025/challenges/will-it-rain-on-my-parade/)
+  
 ## 🇨🇭 Zurich Local Challenges   
 
 In addition to the global challenges, Zurich offers **8 unique local tracks**. These challenges focus on **sustainability, urban planning, tourism, pharma, and agriculture**, leveraging **open data, satellite insights, and Swiss innovation**.  
@@ -193,7 +178,7 @@ Topics include:
 - **Mobility**: Urban navigation & transport  
 - **Pharma**: Space-enabled Swiss drug research  
 
-Submit under “Create Your Own Challenge” at the global site.
+Submit under “Create Your Own Challenge” at the global SpaceApps Challenge site.
 
 ---
 
@@ -233,22 +218,22 @@ Submit under “Create Your Own Challenge” at the global site.
 Make sure to update your project page **before the deadline**.
 
 # Teams
-## 🚀 Got an idea but no team?
-
-Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
-Check the list of registered teams — maybe they need your skills.  
 
 ### Team Guidelines
 - **Team size:** 2–5 members  
 - **Skills requirement:** At least 50% of team members must have an engineering or technical background  
 - Collaborate, contribute, and build something amazing together!
 
+🚀 Got an idea but no team?
 
-## 🧩  Creating a team Team Tips
+Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
+Check the list of registered teams — maybe they need your skills.  
+
 
 
 <img width="3256" height="2257" alt="image" src="https://github.com/user-attachments/assets/081dc0d6-7005-4a33-a84c-130c7e3f61cb" />
 
+## 🧩  Creating a team Team Tips
 
 - ⏱️ Start with a rough plan, then build MVP  
 - 🧠 Focus on user impact, not just code  
@@ -269,7 +254,8 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 
 📌 Teams **not attending all checkpoints** are disqualified from local judging.
 
----
+🛑 *No team changes allowed after Oct 3th 23:59 CET*
+
 
 ## 📝 Project Submission
 <img width="1422" height="360" alt="image" src="https://github.com/user-attachments/assets/375e84dc-250b-40f1-b848-a2f3b62ecfb6" />
@@ -297,8 +283,10 @@ Each team must attend 3 checkpoints with a mentor. One person must be present pe
 ## 🏆 Judging & Awards
 
 ### 🎖️ Zurich Local Awards
+🎯 Only **one team** will be nominated from Zurich to NASA's **global round**.
 
-Only teams working on **Zurich Local Challenges** are eligible for local prizes.
+Only teams working on **Zurich Local Challenges** are eligible for local prizes and rewards.
+Teams working on Global Challenges qualify only for global nomination.
 
 **Categories:**
 1. Best Use of Data & Science  
@@ -321,15 +309,7 @@ Only teams working on **Zurich Local Challenges** are eligible for local prizes.
 
 Judged separately by NASA panel after the event.
 
-Global categories include:
-- Best Use of Data  
-- Best Use of Technology  
-- Best Storytelling  
-- Galactic Impact  
-- Local Impact  
-- Best Use of Science  
 
----
 
 ## 🧠 Tools & Resources
 
