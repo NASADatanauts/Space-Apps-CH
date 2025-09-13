@@ -87,7 +87,7 @@ Best local projects win Zurich-focused awards and may be nominated for global ju
 
 Every team member must:
 - Register on the website.
-- Select **Zurich as your location** here https://www.spaceappschallenge.org/2025/local-events/zurich/
+- Select **Zurich as your location** [here](https://www.spaceappschallenge.org/2025/local-events/zurich/)
 - Fill out the short form.
 - Once that’s done—you’re officially in! ✅
 
