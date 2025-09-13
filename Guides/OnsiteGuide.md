@@ -267,9 +267,9 @@ All checkpoints done via Google Meet or Zoom calls.
 
 📌 **Zurich Local Submission Deadline:**  
 🕐 Sunday, Oct 5 – 13:00 CET *(via Google Form – link announced soon)*
-Prepare a 3 min video presentation about your project.
-Prepare live demo
-Document your project at https://www.spaceappschallenge.org/
+- Prepare a 3 min video presentation about your project.
+- Prepare live demo
+- Document your project at https://www.spaceappschallenge.org/
 
 📌 **Global Submission Deadline:**  
 🕛 Monday, Oct 6 – 23:59 EDT
