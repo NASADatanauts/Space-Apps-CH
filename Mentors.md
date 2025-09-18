@@ -9,18 +9,18 @@ Below is a list of mentors available to support teams during the hackathon. If y
 
 | Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | LinkedIn | Calendly |
 |---|---|---:|---|---|---|---|
-| Batikan Bora Ormanci | Masterand | Siemens & TUM | Software Development, AI | Backend, frontend, AI, integration, UX, presentation; adaptive reinforcement learning | https://linkedin.com/in/batikanor | Not provided |
-| Sheheera Ismail | Senior Software Engineer | u-blox AG | Embedded Software, Linux | Embedded SW, signal processing, TCP/serial communications, project management | https://www.linkedin.com/in/sheheera-ismail/ | Not provided |
-| Tatyana (Dashevska) Tetiana | CEO / Co-founder | SoftBees | Project Management, IT Executive | Fintech, banking, leadership, scaling teams | http://linkedin.com/in/tatyana-dashevska | Not provided |
-| Alpha Romer N. Coma | AI Engineer | Generative Labs | Software, Cloud, AI | Multimodal deep learning, TPU research, agentic workflows | https://linkedin.com/in/alpharomercoma | Not provided |
-| Iacopo Testi | Innovation Manager | Enel Group | Software, AI & Data Science | Urban innovation, EO, renewable energy, project management | https://www.linkedin.com/in/iacopo-testi/ | Not provided |
-| Sondos Elsayed Ahmed | Marketing Manager | Global Innovation & Entrepreneurship Co. | Marketing & Business Dev. | Marketing strategy, event management, BI-driven storytelling | https://www.linkedin.com/in/sondose30/ | Not provided |
-| Afsheen Ismail Wey | CEO, HR & Leadership Advisor | The Phoenix Coaching Co. | HR & Leadership | Executive coaching, leadership strategy, team facilitation | https://www.linkedin.com/in/afsheenismailwey | Not provided |
-| Bianca Scheffler | Head of Artificial Intelligence | KPMG Switzerland | Data Science, AI | Data & AI strategy, risk modeling, technology architecture | https://www.linkedin.com/in/bianca-scheffler | Not provided |
+| Batikan Bora Ormanci | Masterand | Siemens & TUM | Software Development, AI | Backend, frontend, AI, integration, UX, presentation; adaptive reinforcement learning | [![LinkedIn](https://linkedin.com/in/batikanor) | Not provided |
+| Sheheera Ismail | Senior Software Engineer | u-blox AG | Embedded Software, Linux | Embedded SW, signal processing, TCP/serial communications, project management | [![LinkedIn](https://www.linkedin.com/in/sheheera-ismail/) | Not provided |
+| Tatyana (Dashevska) Tetiana | CEO / Co-founder | SoftBees | Project Management, IT Executive | Fintech, banking, leadership, scaling teams | [![LinkedIn](http://linkedin.com/in/tatyana-dashevska) | Not provided |
+| Alpha Romer N. Coma | AI Engineer | Generative Labs | Software, Cloud, AI | Multimodal deep learning, TPU research, agentic workflows | [![LinkedIn](https://linkedin.com/in/alpharomercoma) | Not provided |
+| Iacopo Testi | Innovation Manager | Enel Group | Software, AI & Data Science | Urban innovation, EO, renewable energy, project management | [![LinkedIn](https://www.linkedin.com/in/iacopo-testi/) | Not provided |
+| Sondos Elsayed Ahmed | Marketing Manager | Global Innovation & Entrepreneurship Co. | Marketing & Business Dev. | Marketing strategy, event management, BI-driven storytelling | [![LinkedIn](https://www.linkedin.com/in/sondose30/) | Not provided |
+| Afsheen Ismail Wey | CEO, HR & Leadership Advisor | The Phoenix Coaching Co. | HR & Leadership | Executive coaching, leadership strategy, team facilitation | [![LinkedIn](https://www.linkedin.com/in/afsheenismailwey) | Not provided |
+| Bianca Scheffler | Head of Artificial Intelligence | KPMG Switzerland | Data Science, AI | Data & AI strategy, risk modeling, technology architecture | [![LinkedIn](https://www.linkedin.com/in/bianca-scheffler) | Not provided |
 | Heather Clark | Consultant | Independent | GIS, Energy, Startups | GIS, energy, finance, insurance, agri, SaaS, fundraising & scaling | (profile: Heather Pace Clark) Not provided | Not provided |
-| Cristina Vazquez Reynel | Senior Systems & Design Engineer | Caeli Nova / Iceye | Engineering | Aerospace systems, design & systems engineering | https://www.linkedin.com/in/cristinareynel | Not provided |
-| Madhumita Mund Rao | Chief Product Officer & Founder | Planetor Limited | Earth Observation, Geospatial | EO, spatial data science, product dev, climate tech, agriculture | https://www.linkedin.com/in/madhumitamundraodata/ | Not provided |
-| Iram Amjad | AI Lead | Crayon | Software Engineering, Data Science | Software eng, PM, data science | https://www.linkedin.com/in/iramamjad | Not provided |
+| Cristina Vazquez Reynel | Senior Systems & Design Engineer | Caeli Nova / Iceye | Engineering | Aerospace systems, design & systems engineering | [![LinkedIn](https://www.linkedin.com/in/cristinareynel) | Not provided |
+| Madhumita Mund Rao | Chief Product Officer & Founder | Planetor Limited | Earth Observation, Geospatial | EO, spatial data science, product dev, climate tech, agriculture | [![LinkedIn](https://www.linkedin.com/in/madhumitamundraodata/) | Not provided |
+| Iram Amjad | AI Lead | Crayon | Software Engineering, Data Science | Software eng, PM, data science | [![LinkedIn](https://www.linkedin.com/in/iramamjad) | Not provided |
 
 ---
 
