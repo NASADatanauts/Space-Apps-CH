@@ -3,6 +3,8 @@
 Thank you to our mentors!  
 Below is a list of mentors available to support teams during the hackathon. If you want to book time with a mentor, click their LinkedIn to connect or use the Calendly link if provided.
 
+<img width="800" height="247" alt="image" src="https://github.com/user-attachments/assets/f88a9ab4-1d9a-4a6e-94c9-6a298209604f" />
+
 ---
 
 ## Mentors (summary)
