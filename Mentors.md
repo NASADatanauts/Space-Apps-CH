@@ -7,7 +7,7 @@ Below is a list of mentors available to support teams during the hackathon. If y
 
 ---
 
-## Mentors 
+## Expert Mentors 
 
 | Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | LinkedIn | Calendly |
 |---|---|---|---|---|---|---|
@@ -28,4 +28,20 @@ Below is a list of mentors available to support teams during the hackathon. If y
 | Sumana Vedantam | Co-Founder & Consultant | Product Spotlight | Tech Consulting, Product Management | Building tech solutions in Zürich; experience across business, healthcare, sustainability | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://linkedin.com/in/sumanavedantam) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Stefanie Wedel | Teaching Assistant & Consultant Data Science | Constructor Academy | Data Science, Economics | Data science consulting, economics, banking crises, teaching experience | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/stefaniewedel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Roman Klis | Data Scientist / Problem Solver | Lean-AI-Dev | Data Science, AI Transformation | Generative AI, large-scale data systems, process re-imagination, Lean-AI-DEV | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+
+
+
+## Team Mentors 
+
+| Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | LinkedIn | Calendly |
+|---|---|---|---|---|---|---|
+| Sheheera Ismail | Senior Software Engineer | u-blox AG | Embedded Software, Linux | Embedded SW, signal processing, TCP/serial communications, project management | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/sheheera-ismail/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Afsheen Ismail Wey | CEO, HR & Leadership Advisor | The Phoenix Coaching Co. | HR & Leadership | Executive coaching, leadership strategy, team facilitation | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/afsheenismailwey) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Heather Clark | Consultant | Independent | GIS, Energy, Startups | GIS, energy, finance, insurance, agri, SaaS, fundraising & scaling | Not provided | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Cristina Vazquez Reynel | Senior Systems & Design Engineer | Caeli Nova / Iceye | Engineering | Aerospace systems, design & systems engineering | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/cristinareynel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Iram Amjad | AI Lead | Crayon | Software Engineering, Data Science | Software eng, PM, data science | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/iramamjad) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Siddharth Gupta | Software Development Manager | Amazon (AWS) | Generative AI, Software Development, ML, Scaling | Leading Generative AI within AWS SageMaker’s Unified Experiences; focus on agentic experiences; edge ML; ex-Yahoo, Glassdoor, Twitch | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/sid88in/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Daniel Rodriguez Gutierrez | Senior Scientist | University Hospital Zurich (USZ) | Biomedicine | Translational research, clinical data integration, immunology, endocrinology, women’s health | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Roman Klis | Data Scientist / Problem Solver | Lean-AI-Dev | Data Science, AI Transformation | Generative AI, large-scale data systems, process re-imagination, Lean-AI-DEV | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+
 
