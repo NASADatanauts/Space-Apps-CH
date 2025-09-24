@@ -1,10 +1,10 @@
 #  Conference Opportunities
 
-As a thank you for your participation and outstanding contributions, select teams will receive rewards in the form of conference tickets, experiences, and networking opportunities. Below is the current list of rewards available.  
+As a thank you for your participation and outstanding contributions, select teams or mentors will receive rewards in the form of conference tickets, experiences, and networking opportunities. Below is the current list of rewards available.  
 
 ---
 
-## 4. Intergeo – Conference & Stage Pitch Opportunity
+## 1. Intergeo – Conference & Stage Pitch Opportunity
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
 
 **What’s included:**
