@@ -4,6 +4,20 @@ As a thank you for your participation and outstanding contributions, select team
 
 ---
 
+## 4. Intergeo – Conference & Stage Pitch Opportunity
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
+
+**What’s included:**
+- Full conference access
+- Opportunity to pitch your project on the main stage
+- Exposure to industry leaders in geospatial and surveying technology
+
+**How to get it:**
+- Selected teams invited based on project relevance and innovation
+- Details for registration and stage preparation will be communicated in advance
+
+**More info / Registration:** [Intergeo Conference](INSERT_LINK_HERE)  
+
 ## 1. Red Bull Media World – Luzern, Switzerland
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d56532cf-30b8-4418-bdc0-ccff403ebd9f" />
@@ -57,19 +71,7 @@ May 20 -21st, 2026 - PARIS
 
 ---
 
-## 4. Intergeo – Conference & Stage Pitch Opportunity
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
 
-**What’s included:**
-- Full conference access
-- Opportunity to pitch your project on the main stage
-- Exposure to industry leaders in geospatial and surveying technology
-
-**How to get it:**
-- Selected teams invited based on project relevance and innovation
-- Details for registration and stage preparation will be communicated in advance
-
-**More info / Registration:** [Intergeo Conference](INSERT_LINK_HERE)  
 
 ---
 
