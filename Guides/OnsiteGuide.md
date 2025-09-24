@@ -226,6 +226,18 @@ Make sure to update your project page **before the deadline**.
 Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
 Check the list of registered teams — maybe they need your skills.  
 
+## Deadlines for Team Creation & Submissions
+
+**Team Creation:**
+- **3rd October, 23:59 CET** – for **Onsite participants** (Onsite and Hybrid teams)  
+- **4th October, 11:00 CET** – for **Virtual participants** (Virtual teams)  
+
+⛔ After these deadlines, no team changes or additional participants can be added.  
+
+**Project Page & Submission Edits:**  
+You may continue to edit your team page, submission, and project details until **6th October**.  
+After this date, the page will be loc
+
 
 ## 🧩  How to work in teams
 
