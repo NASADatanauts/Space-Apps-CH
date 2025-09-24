@@ -9,7 +9,7 @@ As a thank you for your participation and outstanding contributions, select team
 
 **Dates:** October 7–9, 2025  
 **Venue:** Frankfurt, Germany  
-**More info / Registration:** [Intergeo Conference](https://dvw.de/intergeo/de)  
+**More info:** [Intergeo Conference](https://dvw.de/intergeo/de)  
 
 Thanks to our amazing partners at **INTERGEO EXPO 2025**, the winning team will receive a unique opportunity to showcase their idea to a global audience of experts and innovators.  
 
@@ -24,34 +24,13 @@ Thanks to our amazing partners at **INTERGEO EXPO 2025**, the winning team will 
 - Details for registration and stage preparation will be communicated in advance
 
 
-## 1. Intergeo – Conference & Stage Pitch Opportunity
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
-**More info / Registration:** 
-Dates: October 7-9, 2025
-Venue: Frankfurt, Germany
-Link: [Intergeo Conference](https://dvw.de/intergeo/de)  
-
-Thanks to our amazing partners at INTERGEO EXPO 2025, the winning team will receive:
-This is a huge opportunity to showcase your idea to a global audience of experts and innovators.
-**What’s included:**
-- Full conference access
-- Opportunity to pitch your project on the main stage
-- Exposure to industry leaders in geospatial and surveying technology
-- 🎫 Free 3-day expo passes
-🛰️ Access to cutting-edge geospatial tech & networking
-🎤 A chance to pitch your project live on the GeoCampus stage!
-
-**How to get it:**
-- Selected teams invited based on project relevance and innovation
-- Details for registration and stage preparation will be communicated in advance
 
 
 
-
-## 1. Red Bull Media World – Luzern, Switzerland
+## 2. Red Bull Media World – Luzern, Switzerland
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d56532cf-30b8-4418-bdc0-ccff403ebd9f" />
-
+Tickets for the Red Bull Media World (including access to the Museum of Transport that also includes Red Bull Stratos and The Red Bull World of Racing) 
 
 **What’s included:**
 - Access to the Museum of Transport
