@@ -53,6 +53,8 @@ With top experts from leading space agencies, industry pioneers, and cybersecuri
 
 **Date:** INSERT_DATE_HERE
 May 20 -21st, 2026 - PARIS
+CYSAT EUROPE
+May 20 -21st, 2026 - PARIS
 
 **What’s included:**
 - Conference participation certificate
@@ -63,7 +65,7 @@ May 20 -21st, 2026 - PARIS
 - Teams selected based on innovation and presentation quality
 - Conference registration handled by the organizers; details shared via email
 
-**More info / Registration:** [CZSET Szber Conference](INSERT_LINK_HERE)  
+**More info:** [CYSET Cyber Secuirity Conference]((https://cysat.eu/)  
 
 ---
 
