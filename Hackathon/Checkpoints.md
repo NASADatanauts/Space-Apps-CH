@@ -1,7 +1,7 @@
 
 ## Team Mentors 
 
-| Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5 Oct 11:00 |  Calendly |
+| Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
 |---|---|---|---|---|---|
 | Afsheen Ismail Wey | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 |  | ✅ Team 1 |  |  |  |  |  |
