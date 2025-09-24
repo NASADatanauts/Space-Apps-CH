@@ -5,6 +5,10 @@ As a thank you for your participation and outstanding contributions, select team
 ---
 
 ## 1. Red Bull Media World – Luzern, Switzerland
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d56532cf-30b8-4418-bdc0-ccff403ebd9f" />
+
+
 **What’s included:**
 - Access to the Museum of Transport
 - Red Bull Stratos exhibit
