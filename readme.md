@@ -81,7 +81,20 @@ It will be main communication channel for the hackathon.
     - Have **formed a complete team**  
     - Have **selected a challenge**  
     - Do so **before the deadline: October 3, 2025**  
-  - Teams forming or choosing a challenge **after October 3** may still join, but only in **virtual format**  
+  - Teams forming or choosing a challenge **after October 3** may still join, but only in **virtual format**
+
+ ## Deadlines for Team Creation & Submissions
+
+**Team Creation:**
+- **3rd October, 23:59 CET** – for **Onsite participants** (Onsite and Hybrid teams)  
+- **4th October, 11:00 CET** – for **Virtual participants** (Virtual teams)  
+
+⛔ After these deadlines, no team changes or additional participants can be added.  
+
+**Project Page & Submission Edits:**  
+You may continue to edit your team page, submission, and project details until **6th October**.  
+After this date, the page will be locked. 
+
 
 - **Submission Rules**:  
   - **All teams must submit their project on the official global Space Apps platform**  
