@@ -25,6 +25,9 @@ This is a huge opportunity to showcase your idea to a global audience of experts
 - Details for registration and stage preparation will be communicated in advance
 
 **More info / Registration:** [Intergeo Conference](INSERT_LINK_HERE)  
+https://dvw.de/intergeo/de
+Dates: October 7-9, 2025
+Venue: Frankfurt, Germany
 
 ## 1. Red Bull Media World – Luzern, Switzerland
 
