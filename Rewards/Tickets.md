@@ -7,10 +7,18 @@ As a thank you for your participation and outstanding contributions, select team
 ## 1. Intergeo – Conference & Stage Pitch Opportunity
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
 
+Thanks to our amazing partners at INTERGEO EXPO 2025, the winning team will receive:
+
+
+
+This is a huge opportunity to showcase your idea to a global audience of experts and innovators.
 **What’s included:**
 - Full conference access
 - Opportunity to pitch your project on the main stage
 - Exposure to industry leaders in geospatial and surveying technology
+- 🎫 Free 3-day expo passes
+🛰️ Access to cutting-edge geospatial tech & networking
+🎤 A chance to pitch your project live on the GeoCampus stage!
 
 **How to get it:**
 - Selected teams invited based on project relevance and innovation
