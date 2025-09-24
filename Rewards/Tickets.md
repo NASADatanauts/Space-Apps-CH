@@ -1,4 +1,4 @@
-# NASA Space Apps Challenge – Team Rewards & Conference Opportunities
+#  Conference Opportunities
 
 As a thank you for your participation and outstanding contributions, select teams will receive rewards in the form of conference tickets, experiences, and networking opportunities. Below is the current list of rewards available.  
 
