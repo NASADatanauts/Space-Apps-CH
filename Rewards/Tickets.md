@@ -23,7 +23,10 @@ As a thank you for your participation and outstanding contributions, select team
 ---
 
 ## 2. CZSET Szber Certificate Conference – Paris, France
-**Date:** INSERT_DATE_HERE  
+<img width="734" height="498" alt="image" src="https://github.com/user-attachments/assets/f295d217-3381-4c19-805b-e0357c5cc8cd" />
+
+**Date:** INSERT_DATE_HERE
+May 20 -21st, 2026 - PARIS
 
 **What’s included:**
 - Conference participation certificate
