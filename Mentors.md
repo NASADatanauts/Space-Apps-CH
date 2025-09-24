@@ -32,7 +32,7 @@ Below is a list of mentors available to support teams during the hackathon. If y
 
 ## Expert Mentors 
 
-| Photo | Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | LinkedIn | Calendly |
+| Photo | Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) |Link|Link|
 |---|---|---|---|---|---|---|---|
 | <img src="https://media.licdn.com/dms/image/v2/D4E03AQHs4_v0jdvopw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699977344890?e=1761782400&v=beta&t=yKXj6vY4FLSL_lMwe2LRQpS-T7gRwEEd-tuUCzzRzrU" width="40" height="40"/> | Bianca Scheffler | Head of Artificial Intelligence | KPMG Switzerland | Data Science, AI | Data & AI strategy, risk modeling, technology architecture | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/bianca-scheffler) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://calendly.com/bianca-scheffler/virtual-human-advice?month=2025-10) |
 | <img src="https://media.licdn.com/dms/image/v2/D4E03AQGEg8rlL4pqhw/profile-displayphoto-crop_800_800/B4EZk322DNKYAQ-/0/1757578748581?e=1761782400&v=beta&t=VAw9YpzX6F-2_pYik9pHHkAOz8jgqsMB4M1fAodvyGA" width="40" height="40"/> | Dr. Aygul Zagidullina | Professor, Co-Founder Applied AI Center | Lucerne University of Applied Sciences and Arts | Research support, innovation management, academic partnerships | Research support, innovation management, academic partnerships | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/aygul-zagidullina-phd-2307/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
