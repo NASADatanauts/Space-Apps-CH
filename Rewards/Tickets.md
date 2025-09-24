@@ -71,7 +71,8 @@ May 20 -21st, 2026 - PARIS
 
 ## 3. WIDS Tickets 2026
 <img width="2131" height="1421" alt="image" src="https://github.com/user-attachments/assets/e9ca6237-4524-4165-a5a8-c7fe70d1c32a" />
-
+  For seven remarkable years, WiDS Zürich has been a hub for innovation, inspiration, and connection in the world of data science and AI. Each year, over 200 passionate attendees come together to learn, network, and collaborate at our sold-out conferences, supported by prestigious sponsors like SwissRe, HSLU, Oracle, SonyAI, Migros, and many more. Our events feature captivating talks from leading professionals and academics, offering fresh insights into the future of technology. 
+  
 **What’s included:**
 - Full access to the Women in Data Science (WIDS) global event
 - Workshops, keynotes, and networking sessions
@@ -81,7 +82,7 @@ May 20 -21st, 2026 - PARIS
 - Awarded to teams demonstrating exceptional collaboration or technical innovation
 - Ticket codes or registration links provided directly to winning teams
 
-**More info / Registration:** [WIDS Event](INSERT_LINK_HERE)  
+**More info / Registration:** [WIDS Event]((https://www.wids.ch/)
 
 ---
 
