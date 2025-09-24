@@ -3,14 +3,35 @@
 As a thank you for your participation and outstanding contributions, select teams or mentors will receive rewards in the form of conference tickets, experiences, and networking opportunities. Below is the current list of rewards available.  
 
 ---
+## 1. Intergeo – Conference & Stage Pitch Opportunity
+
+![Intergeo Conference](https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25)
+
+**Dates:** October 7–9, 2025  
+**Venue:** Frankfurt, Germany  
+**More info / Registration:** [Intergeo Conference](https://dvw.de/intergeo/de)  
+
+Thanks to our amazing partners at **INTERGEO EXPO 2025**, the winning team will receive a unique opportunity to showcase their idea to a global audience of experts and innovators.  
+
+### **What’s included:**
+- 🎫 Full 3-day conference access  
+- 🛰️ Access to cutting-edge geospatial technology & networking  
+- 🎤 Opportunity to pitch your project live on the GeoCampus stage  
+- Exposure to industry leaders in geospatial and surveying technology  
+
+### **How to get it:**
+- Teams are selected based on project relevance and innovation  
+- Details for registration and stage preparation will be communicated in advance
+
 
 ## 1. Intergeo – Conference & Stage Pitch Opportunity
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
+**More info / Registration:** 
+Dates: October 7-9, 2025
+Venue: Frankfurt, Germany
+Link: [Intergeo Conference](https://dvw.de/intergeo/de)  
 
 Thanks to our amazing partners at INTERGEO EXPO 2025, the winning team will receive:
-
-
-
 This is a huge opportunity to showcase your idea to a global audience of experts and innovators.
 **What’s included:**
 - Full conference access
@@ -24,10 +45,8 @@ This is a huge opportunity to showcase your idea to a global audience of experts
 - Selected teams invited based on project relevance and innovation
 - Details for registration and stage preparation will be communicated in advance
 
-**More info / Registration:** [Intergeo Conference](INSERT_LINK_HERE)  
-https://dvw.de/intergeo/de
-Dates: October 7-9, 2025
-Venue: Frankfurt, Germany
+
+
 
 ## 1. Red Bull Media World – Luzern, Switzerland
 
