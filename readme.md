@@ -89,6 +89,9 @@ It will be main communication channel for the hackathon.
 - **3rd October, 23:59 CET** – for **Onsite participants** (Onsite and Hybrid teams)  
 - **4th October, 11:00 CET** – for **Virtual participants** (Virtual teams)  
 
+Hybrid team shoudl have *at least 2 team members* present onsite in Zurich. Otherwise we suggest to join as fully virtual team for best hackathon expirience. 
+No solo teams (with only 1 participant) allowed in any format. 
+
 ⛔ After these deadlines, no team changes or additional participants can be added.  
 
 **Project Page & Submission Edits:**  
