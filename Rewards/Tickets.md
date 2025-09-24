@@ -65,7 +65,7 @@ May 20 -21st, 2026 - PARIS
 - Teams selected based on innovation and presentation quality
 - Conference registration handled by the organizers; details shared via email
 
-**More info:** [CYSET Cyber Secuirity Conference]((https://cysat.eu/)  
+**More info:** [CYSET Cyber Secuirity Conference](https://cysat.eu/)  
 
 ---
 
@@ -82,7 +82,7 @@ May 20 -21st, 2026 - PARIS
 - Awarded to teams demonstrating exceptional collaboration or technical innovation
 - Ticket codes or registration links provided directly to winning teams
 
-**More info / Registration:** [WIDS Event]((https://www.wids.ch/)
+**More info :** [WIDS Event](https://www.wids.ch/)
 
 ---
 
