@@ -47,6 +47,9 @@ Tickets for the Red Bull Media World (including access to the Museum of Transpor
 
 ## 2. CZSET Szber Certificate Conference – Paris, France
 <img width="734" height="498" alt="image" src="https://github.com/user-attachments/assets/f295d217-3381-4c19-805b-e0357c5cc8cd" />
+CYSAT stands as the biggest annual European event gathering, uniting minds in space and cybersecurity. 
+
+With top experts from leading space agencies, industry pioneers, and cybersecurity specialists, dive into the latest insights and innovations shaping the future of space security. 
 
 **Date:** INSERT_DATE_HERE
 May 20 -21st, 2026 - PARIS
