@@ -69,46 +69,46 @@ Below is a list of mentors available to support teams during the hackathon. If y
 
 ## Team Mentors 
 
-| Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | LinkedIn | Calendly |
-|---|---|---|---|---|---|---|
-| Afsheen Ismail Wey | CEO, HR & Leadership Advisor | The Phoenix Coaching Co. | HR & Leadership | Executive coaching, leadership strategy, team facilitation | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/afsheenismailwey) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Heather Clark | Consultant | Independent | GIS, Energy, Startups | GIS, energy, finance, insurance, agri, SaaS, fundraising & scaling | Not provided | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Cristina Vazquez Reynel | Senior Systems & Design Engineer | Caeli Nova / Iceye | Engineering | Aerospace systems, design & systems engineering | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/cristinareynel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Iram Amjad | AI Lead | Crayon | Software Engineering, Data Science | Software eng, PM, data science | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/iramamjad) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Siddharth Gupta | Software Development Manager | Amazon (AWS) | Generative AI, Software Development, ML, Scaling | Leading Generative AI within AWS SageMaker’s Unified Experiences; focus on agentic experiences; edge ML; ex-Yahoo, Glassdoor, Twitch | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/sid88in/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Daniel Rodriguez Gutierrez | Senior Scientist | University Hospital Zurich (USZ) | Biomedicine | Translational research, clinical data integration, immunology, endocrinology, women’s health | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Roman Klis | Data Scientist / Problem Solver | Lean-AI-Dev | Data Science, AI Transformation | Generative AI, large-scale data systems, process re-imagination, Lean-AI-DEV | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-
-
-## Team Mentors 
-
-| Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | LinkedIn | Calendly |
+| Mentor Name | Team| Checkpoint #1 | Checkpoint #1 | Checkpoint #1 |  Calendly |
 |---|---|---|---|---|---|
-| Afsheen Ismail Wey | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/afsheenismailwey) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Heather Clark | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | Not provided | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Cristina Vazquez Reynel | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/cristinareynel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Iram Amjad | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/iramamjad) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Siddharth Gupta | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/sid88in/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Daniel Rodriguez Gutierrez | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Roman Klis | ✅ Team 1 | ✅ Team 2 | ✅ Team 3 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Afsheen Ismail Wey | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Heather Clark | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3  | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Cristina Vazquez Reynel |Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Iram Amjad | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Siddharth Gupta | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Daniel Rodriguez Gutierrez | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3| [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+| Roman Klis | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3|  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|  | ✅ Team 1 |  |  |  |  |  |
+|  | ✅ Team 2 |  |  |  |  |  |
+|  | ✅ Team 3 |  |  |  |  |  |
+
+
+## Teams
+
+| Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | Calendly |
+|---|---|---|---|---|
+| Team 1  | ✅  | ✅  | ✅  | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 2| ✅  | ✅  | ✅  | | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 3 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 4 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 5 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 6 | ✅  | ✅  | ✅  |   [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Team 7 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
