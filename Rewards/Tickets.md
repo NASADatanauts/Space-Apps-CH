@@ -42,6 +42,8 @@ May 20 -21st, 2026 - PARIS
 ---
 
 ## 3. WIDS Tickets – Next Year Event
+<img width="2131" height="1421" alt="image" src="https://github.com/user-attachments/assets/e9ca6237-4524-4165-a5a8-c7fe70d1c32a" />
+
 **What’s included:**
 - Full access to the Women in Data Science (WIDS) global event
 - Workshops, keynotes, and networking sessions
@@ -56,6 +58,8 @@ May 20 -21st, 2026 - PARIS
 ---
 
 ## 4. Intergeo – Conference & Stage Pitch Opportunity
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/ada79ac5-72fd-4f48-8fc6-4ac37794ae25" />
+
 **What’s included:**
 - Full conference access
 - Opportunity to pitch your project on the main stage
