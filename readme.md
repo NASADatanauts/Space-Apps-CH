@@ -2,10 +2,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=space-apps-ch.SpaceApps2025)
 
 
-Welcome to the **NASA Space Apps Challenge – Zurich Edition!**  
-https://www.spaceappschallenge.org/2025/local-events/zurich/
-
- The NASA International Space Apps Challenge is the largest annual global hackathon, fosters innovation through international collaboration by providing an opportunity for participants to utilize NASA’s free and open data and its Space Agency Partners’ space-based data to address real-world problems on Earth and in space. Space Apps is the world’s largest global hackathon, bringing together innovators, developers, designers, and space enthusiasts in **more than 160 cities worldwide**. 
+## SOLVE REAL-WORLD CHALLENGES ON EARTH & IN SPACE
+The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in Space.
+Space Apps is the world’s largest global hackathon, bringing together innovators, developers, designers, and space enthusiasts in **more than 160 cities worldwide**. 
 
 This year, teams in Zurich will get to choose from:  
 - **8 Local Zurich Challenges** 🇨🇭 tailored to Swiss needs and opportunities
@@ -125,3 +124,8 @@ After this date, the page will be locked.
 ⚡ **Your Mission:**  
 Let’s make Zurich shine as a hub of innovation where **space data meets sustainability, smart cities, and health**.  
 
+## TERMS & CONDITIONS
+By participating in Discussions within this repository, you are confirming that you have registered for the 2025 NASA International Space Apps Hackathon and have agreed to and signed the Terms & Conditions.
+
+Welcome to the **NASA Space Apps Challenge – Zurich Edition!**  
+https://www.spaceappschallenge.org/2025/local-events/zurich/
