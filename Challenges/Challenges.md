@@ -17,7 +17,13 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 All challenge descriptions and resources are organized here in this repository.  
 **All challenges are eligible for Global Nominations**. However, only **local challenges** will be considered for **local rewards** and judged at the local level.
 
-The judging categories are:
+
+
+## 🌐 Global NASA Challenges (18)  
+Explore the official NASA Space Apps 2025 challenges:  
+👉 [See the Global Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
+
+The Global nomination judging categories are:
 1. Best Use of Data & Science
 2. Best Mission Concept
 3. Best Use of Technology
@@ -26,7 +32,3 @@ The judging categories are:
 6. Best Design Concept
 7. Best Use of Artheficial Intelligence
 ---
-
-## 🌐 Global NASA Challenges (18)  
-Explore the official NASA Space Apps 2025 challenges:  
-👉 [See the Global Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
