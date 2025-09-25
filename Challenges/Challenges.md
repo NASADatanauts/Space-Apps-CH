@@ -12,3 +12,21 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 6. 💊 [Space-Enabled Pharma: Unlocking Microgravity Research to Advance Health on Earth](./Challenges/💊6.%20Space-Enabled%20Pharma%20Unlocking%20Microgravity%20Research%20to%20Advance%20Health%20on%20Earth.md)
 7. 🚦 [Smarter Urban Planning & Navigation for Zurich](./Challenges/🚦7.%20Smarter%20Urban%20Planning%20&%20Navigation%20for%20Zurich%20.md)
 8. 🚨[ Save Blatten & Beyond: Rapid Response to Natural and Man-Made Disasters](Challenges/🚨8.%20Save%20Blatten%20&%20Beyond:%20Rapid%20Response%20to%20Natural%20and%20Man-Made%20Disasters.md)
+
+
+All challenge descriptions and resources are organized here in this repository.  
+**All challenges are eligible for Global Nominations**. However, only **local challenges** will be considered for **local rewards** and judged at the local level.
+
+The judging categories are:
+1. Best Use of Data & Science
+2. Best Mission Concept
+3. Best Use of Technology
+4. Galactic Impact
+5. Best Local Impact
+6. Best Design Concept
+7. Best Use of Artheficial Intelligence
+---
+
+## 🌐 Global NASA Challenges (18)  
+Explore the official NASA Space Apps 2025 challenges:  
+👉 [See the Global Challenges](https://www.spaceappschallenge.org/2025/challenges/)  
