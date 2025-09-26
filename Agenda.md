@@ -15,7 +15,7 @@ Speaker: **Michael Linder, CTO @ DPHI Space**
 **11:00 – 12:00** | ✅ **Team Checkpoint #1** (kick-off mentoring)  
 **12:30 – 14:00** | Lunch break 🍽️ + partner demo zone  
 **16:00 – 20:00** | Fun activities & relax zone 🎲🎮  
-**15:00 – 16:00** | ✅ **Team Checkpoint #2** (progress updates & mentoring)  
+**19:00 – 20:00** | ✅ **Team Checkpoint #2** (progress updates & mentoring)  
 **20:00 – 21:00** | Dinner & networking 🍕  
 **22:00** | Venue closing for cleaning. Teams may continue online or onsite. 
 
@@ -28,7 +28,7 @@ If you plan to stay overnight at the venue:
 
 ## 📅 Sunday, October 5 – Hackathon Day 2 & Finals
 **09:00 – 09:30** | Doors open, morning coffee ☕  
-**10:00 – 11:00** | ✅ **Team Checkpoint #3** (last feedback round)  
+**11:00 – 12:00** | ✅ **Team Checkpoint #3** (last feedback round)  
 **13:00** | ⏳ Local project submission deadline  
 **13:00 - 15:00** | Projects evaluations by Jury and team mentors
 **15:00 – 16:00** | Final project pitches 🎤  
