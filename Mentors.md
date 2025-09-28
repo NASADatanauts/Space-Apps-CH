@@ -35,7 +35,6 @@ Below is a list of mentors available to support teams during the hackathon. If y
 
 | Name | Current Job Title | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | LinkedIn | Calendly |
 |---|---|---|---|---|---|---|
-| Afsheen Ismail Wey | CEO, HR & Leadership Advisor | The Phoenix Coaching Co. | HR & Leadership | Executive coaching, leadership strategy, team facilitation | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/afsheenismailwey) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Heather Clark | Consultant | Independent | GIS, Energy, Startups | GIS, energy, finance, insurance, agri, SaaS, fundraising & scaling | Not provided | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Cristina Vazquez Reynel | Senior Systems & Design Engineer | Caeli Nova / Iceye | Engineering | Aerospace systems, design & systems engineering | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/cristinareynel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Iram Amjad | AI Lead | Crayon | Software Engineering, Data Science | Software eng, PM, data science | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/iramamjad) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
