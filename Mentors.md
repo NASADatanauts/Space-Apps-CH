@@ -1,4 +1,4 @@
-# NASA Space Apps Challenge — Mentors
+# NASA Space Apps Challenge — Expert Mentors
 
 Thank you to our mentors!  
 Below is a list of mentors available to support teams during the hackathon. If you want to book time with a mentor, click their LinkedIn to connect or use the Calendly link if provided.
