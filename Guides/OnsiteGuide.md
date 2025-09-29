@@ -245,8 +245,8 @@ Hybrid team shoudl have at least 2 team members present onsite in Zurich. Otherw
 Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
 Check the list of registered teams — maybe they need your skills.  
 
-You can request and join excisting team here: https://www.spaceappschallenge.org/2025/local-events/zurich/?tab=teams
-You must be registered under same location (Zurich).
+You can request and join excisting [team here](https://www.spaceappschallenge.org/2025/local-events/zurich/?tab=teams).
+You must be **registered under same location (Zurich)**.
 
 **Project Page & Submission Edits:**  
 You may continue to edit your team page, submission, and project details until **6th October**.  
@@ -315,8 +315,8 @@ Both onsite and virtual teams qualify for the same awards.
 
 Only teams working on **Zurich Local Challenges** are eligible for local prizes and rewards.
 Teams working on Global Challenges qualify only for global nomination.
-
-**Categories:**
+ 
+**Global Award Categories:**
 1. Best Use of Data & Science  
 2. Best Mission Concept  
 3. Best Use of Technology  
@@ -325,7 +325,16 @@ Teams working on Global Challenges qualify only for global nomination.
 6. Best Design Concept  
 7. Best Use of AI  
 
-🏅 Local Prizes include:
+Global Winners invited to one of the NASA centers for spectacular rocket launch in USA.
+
+**Local Award Categories:**
+1. First place  
+2. Second Place 
+3. Third Place 
+4. People's Choice Award (Voting online)  
+5. Global Nominee.  
+
+🏅 **Local Prizes include**:
 - Red Bull Media World tickets  
 - Zurich City Tourist Cards  
 - Gadgets, certificates & more
