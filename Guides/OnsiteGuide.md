@@ -216,23 +216,37 @@ Make sure to update your project page **before the deadline**.
 # Teams
 <img width="762" height="188" alt="image" src="https://github.com/user-attachments/assets/e11eb641-a764-4863-aaf7-696abfbf0834" />
 
-### Team Guidelines
-- **Team size:** 2–5 members  
-- **Skills requirement:** At least 50% of team members must have an engineering or technical background  
-- Collaborate, contribute, and build something amazing together!
+General Rules & Team Formation:
+## 📢Team Size:
+Standard: 2–4 members
+Exception: Teams with underage participants + guardian may have up to 5 members
 
-🚀 Got an idea but no team?
+## 📢 Team Composition:
+At least 50% of team members should have a technical background (e.g., software developers, engineers, data scientists, GIS specialists). Non-technical participants (designers, storytellers, business, policy, art, education) are strongly encouraged to join for diversity and creativity. 
 
+## 📢Participation Format:
+Teams may be onsite in Zurich, hybrid, or fully virtual
+Onsite participation (at NovuCampus, Zurich) is only allowed for teams that:
+- Have formed a complete team at website (2+ members)
+- Have selected a challenge
+- Did it before the deadline: October 3, 2025
+Teams forming in progress or choosing a challenge after October 3 may still join, but only in virtual format
+
+## 📢 Deadlines for Team Creation & Submissions
+Team Creation deadline:
+- **3rd October, 23:59 CET** – for Onsite participants (Onsite and Hybrid teams)
+- **4th October, 11:00 CET** – for Virtual participants (Virtual teams)
+Hybrid team shoudl have at least 2 team members present onsite in Zurich. Otherwise we suggest to join as fully virtual team for best hackathon expirience. No solo teams (with only 1 participant) allowed in any format.
+
+### ⛔ After these deadlines, no team changes or additional participants can be added.
+
+
+## 🚀 Got an idea but no team?
 Post your idea in the **WhatsApp chat** and pitch it to fellow participants!  
 Check the list of registered teams — maybe they need your skills.  
 
-## Deadlines for Team Creation & Submissions
-
-**Team Creation:**
-- **3rd October, 23:59 CET** – for **Onsite participants** (Onsite and Hybrid teams)  
-- **4th October, 11:00 CET** – for **Virtual participants** (Virtual teams)  
-
-⛔ After these deadlines, no team changes or additional participants can be added.  
+You can request and join excisting team here: https://www.spaceappschallenge.org/2025/local-events/zurich/?tab=teams
+You must be registered under same location (Zurich).
 
 **Project Page & Submission Edits:**  
 You may continue to edit your team page, submission, and project details until **6th October**.  
