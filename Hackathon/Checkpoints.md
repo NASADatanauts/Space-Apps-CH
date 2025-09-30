@@ -1,7 +1,7 @@
 
 ## Team Mentors 
 
-**Checkpoints list**: https://forms.gle/oovdvrUF2XQHCJXe6
+**Checkpoints form**: https://forms.gle/oovdvrUF2XQHCJXe6
 
 | Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
 |---|---|---|---|---|---|
