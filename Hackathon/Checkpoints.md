@@ -5,6 +5,8 @@
 
 **Expert feedback**: https://forms.gle/87tMkgQGjudKeEhN6
 
+Join final evaluation call at 5th October 14:00 CET time. Link:  https://meet.google.com/wca-mamu-oxt
+
 | Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
 |---|---|---|---|---|---|
 | Afsheen Ismail Wey | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
