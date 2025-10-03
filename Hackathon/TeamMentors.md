@@ -1,5 +1,8 @@
 ## Team Mentors 
 
+# For Team Mentors only
+Checkpoints form **for team mentors only** to fill: https://forms.gle/oovdvrUF2XQHCJXe6
+Join final evaluation call at **5th October 14:00 CET** time. Link: https://meet.google.com/wca-mamu-oxt
 
 | Photo | Name | Current Job Title | Company | Expertise (short) | Area of Expertise (detailed) | Calendly |
 |---|---|---|---|---|---|---|
