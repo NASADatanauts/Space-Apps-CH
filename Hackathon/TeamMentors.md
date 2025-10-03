@@ -19,20 +19,6 @@
 
 -----
 
-| Name | Company | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | LinkedIn | Calendly |
-|---|---|---|---|---|---|---|
-| Heather Clark | Consultant | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/heather-pace-clark/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Cristina Vazquez Reynel | Senior Systems & Design Engineer | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/cristinareynel) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Siddharth Gupta | Software Development Manager | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/sid88in/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://calendly.com/sid88in/new-meeting) |
-| Daniel Rodriguez Gutierrez | Senior Scientist | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Roman Klis | Data Scientist / Problem Solver | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Muhammad Faizan Khan | Lead QA Engineer & Technical Project Manager | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/mfalzankhan/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Aylin Guler | Head of Product & Business Operations | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/guleraylin) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Sumana Vedantam | Co-Founder & Consultant	Product Spotlight | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Stefanie Wedel | Teaching Assistant & Consultant Data Science	| [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [Onsite/Calendly](YOUR_LINK) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/roman-pawel-klis-3811994/) | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-
-
-
 
 # 🚀 Zurich – NASA Space Apps 2025 Teams 
 
