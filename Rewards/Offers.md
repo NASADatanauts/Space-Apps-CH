@@ -3,7 +3,10 @@
 Welcome to the hackathon! 🎉  
 Below is a list of resources, tools, and offers you can use to supercharge your project.  
 
----
+🚀 The Hackathon is Kicking off! Plus, Global Offers are Live!💻
+
+The hackathon is kicking off, and Global Offers are now LIVE! Use these optional free tools & resources for your project:
+Claim your offers today! https://www.spaceappschallenge.org/2025/global-offers/
 
 ## 🌍 Global Offers
 
@@ -21,9 +24,15 @@ Below is a list of resources, tools, and offers you can use to supercharge your 
 
 ### 🌦 Meteomatics
 - Use **Meteomatics Weather API** for real-time and forecast weather data.  
-- Great for energy, mobility, agriculture, and logistics use cases.  
+- Great for energy, mobility, agriculture, and logistics use cases.
+https://www.meteomatics.com/en/meteomatics-and-nasa-space-apps-challenge/
 
----
+### Microsoft: 
+- Access Azure, Microsoft Copilot, Planetary Computer, Teams, and GitHub Copilot to collaborate with your team, harness the power of AI, access environmental monitoring data, process data sets, and more with these tools.
+  
+### Miro:
+- A collaborative online whiteboard platform including Miro Education Plan, Miro Starter Plan, and NASA Space Apps Hackathon Miro Board Templates.
+
 
 ## 🇨🇭 Local Offers
 
