@@ -9,7 +9,7 @@ Information for the team mentors:
 
 Join final evaluation call at **5th October 14:00 CET** time. Link:  https://meet.google.com/wca-mamu-oxt
 
-## For teams 
+## For Teams 
 If you **not able to join dedicated checkpoint with your mentor** for many reason, please join this meetings:
 
 ## ✅ General Checkpoint (backup)  
@@ -30,9 +30,7 @@ If you **not able to join dedicated checkpoint with your mentor** for many reaso
 **🕚 Time:** 11:00 AM – 12:00 PM (Europe/Zurich)  
 **🔗 Google Meet:** [Join Meeting](https://meet.google.com/ysy-szng-hnz)
 
-
-| Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
-|---|---|---|---|---|---|
+🚀If your team is onsite, **feel free to complete the final checkpoint with any mentor available at the venue**.
 
 
 ## 🚀 Teams – NASA Space Apps Challenge Zurich 2025
@@ -56,7 +54,7 @@ If you **not able to join dedicated checkpoint with your mentor** for many reaso
 | Space Path | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/space-path/) |
 | Astral DataPulseAi | Virtual | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/astral-datapulseai/) |
 
-
+These teams unfortunately **did not pass** the checkpoints and therefore cannot advance to the next round.
 | Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | Calendly |
 |---|---|---|---|---|
 | Switzerland International Team | ❌ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
@@ -66,7 +64,12 @@ If you **not able to join dedicated checkpoint with your mentor** for many reaso
 | Alterra | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Evilcorp | – | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Stars in the sky | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Fractal | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | The Upper world | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| PASTA | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+|StellarMinds in NASA | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+
+
 
 ### Legend
 ✅ = Passed checkpoint  
