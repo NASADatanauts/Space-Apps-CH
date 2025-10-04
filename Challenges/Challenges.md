@@ -4,7 +4,7 @@ In addition to the global challenges, Zurich offers **8 unique local tracks**. T
 
 ### 📂 Local Challenge Files in This Repo
 
-1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%E2%9A%A1%202.%20Smarter%20Energy%20Planning%20with%20Weather%20Forecasts.md) 
+1. 🌱 [From Farm to Table: Using Space Data to Support Swiss Farmers and Reduce Food Waste](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%B11.%20From%20Farm%20to%20Table%20Using%20Space%20Data%20to%20Support%20Swiss%20Farmers%20and%20Reduce%20Food%20Waste.md) 
 2. ⚡ [Smarter Energy Planning with Weather Forecasts](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%E2%9A%A1%202.%20Smarter%20Energy%20Planning%20with%20Weather%20Forecasts.md)  
 3. 🌆 [Space Data for a Smarter & More Attractive Zurich](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%8C%86%203.%20Space%20Data%20for%20a%20Smarter%20&%20More%20Attractive%20Zurich.md)  
 4. 🗺️ [Challenge: Unlocking the Atlas der Schweiz](https://github.com/NASADatanauts/Space-Apps-CH/blob/main/Challenges/%F0%9F%97%BA%EF%B8%8F%204.%20Challenge%20Unlocking%20the%20Atlas%20der%20Schweiz%20.md)
