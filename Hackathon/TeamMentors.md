@@ -53,6 +53,9 @@
 | Fractal | A World Away: Hunting for Exoplanets with AI | Cristina Vazquez Reynel [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/cristinareynel) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/cristinavreynel/new-meeting) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
 | WhyNot | A World Away: Hunting for Exoplanets with AI | Cristina Vazquez Reynel [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/cristinareynel) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/cristinavreynel/new-meeting) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
 | Astral DataPulseAi | A World Away: Hunting for Exoplanets with AI | Heather Clark [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/heather-pace-clark/) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
+| Milkyway Space Fleet | Create Your Own Challenge | Heather Clark [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/heather-pace-clark/) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
+| Orbitonasal | Create Your Own Challenge | Heather Clark [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/heather-pace-clark/) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
+
 
 
 
