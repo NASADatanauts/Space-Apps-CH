@@ -1,7 +1,7 @@
 ## Team Mentors 
 
 # For Team Mentors only
-Checkpoints form **for team mentors only** to fill after each session: https://forms.gle/oovdvrUF2XQHCJXe6
+Checkpoints form **for team mentors only** to fill after each session here: https://forms.gle/oovdvrUF2XQHCJXe6
 
 Join final evaluation call at **5th October 14:00 CET** time. Link: https://meet.google.com/wca-mamu-oxt
 
@@ -50,3 +50,28 @@ Join final evaluation call at **5th October 14:00 CET** time. Link: https://meet
 | Fractal | A World Away: Hunting for Exoplanets with AI | Cristina Vazquez Reynel [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/cristinareynel) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/cristinavreynel/new-meeting) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
 | WhyNot | A World Away: Hunting for Exoplanets with AI | Cristina Vazquez Reynel [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/cristinareynel) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/cristinavreynel/new-meeting) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
 | Astral DataPulseAi | A World Away: Hunting for Exoplanets with AI | Heather Clark [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/>](https://www.linkedin.com/in/heather-pace-clark/) [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="18"/>](https://calendly.com/) | ✅ / ❌ | ✅ / ❌ | ✅ / ❌ |
+
+
+
+## For teams 
+If you **not able to join dedicated checkpoint with your mentor** for many reason, please join this meetings:
+
+## ✅ General Checkpoint (backup)  
+
+### 🛰️ Checkpoint #1  
+**📅 Date:** Saturday, 4 October  
+**🕐 Time:** 11:00 AM – 12:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/seh-yixk-wjr)
+
+### 🚀 Checkpoint #2  
+**📅 Date:** Saturday, 4 October  
+**🕖 Time:** 7:00 PM – 8:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/ijf-fvaz-mhz)
+
+
+### 🌌 Checkpoint #3  
+**📅 Date:** Sunday, 5 October  
+**🕚 Time:** 11:00 AM – 12:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/ysy-szng-hnz)
+
+
