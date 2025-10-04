@@ -62,6 +62,32 @@ If you **not able to join dedicated checkpoint with your mentor** for many reaso
 |  | ✅ Team 2 |  |  |  |  |  |
 |  | ✅ Team 3 |  |  |  |  |  |
 
+## 🚀 Teams – NASA Space Apps Challenge Zurich 2025
+
+| Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | Calendly |
+|---|---|---|---|---|
+| TerraTrace | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| SARGuardians | ✅ | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Ryks8Mortys | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Per Aspera | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Old Farmer | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Switzerland International Team | ❌ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Sureal | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Pixub Space Program | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Fachverein Physik UZH | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Solvion | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| NSS – NASA SPACE SERVICES | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Cosmo Hunters | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| MetroMeteor | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| ZuriNova | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Space Path | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Astral DataPulseAi | – | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+
+### Legend
+✅ = Passed checkpoint  
+❌ = Did not show / discontinued  
+⏳ = Pending (next checkpoint or final review)  
+– = No data for that checkpoint
 
 ## Teams
 
