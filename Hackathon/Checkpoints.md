@@ -1,11 +1,35 @@
 
 ## Team Mentors 
 
-**Checkpoints form**: https://forms.gle/oovdvrUF2XQHCJXe6
+Information for the team mentors:
+**Fill Checkpoints form after each checkpoint**: https://forms.gle/oovdvrUF2XQHCJXe6
 
-**Expert feedback**: https://forms.gle/87tMkgQGjudKeEhN6
+## Team Mentors and Experts
+**Expert feedback after consultations**: https://forms.gle/87tMkgQGjudKeEhN6
 
-Join final evaluation call at 5th October 14:00 CET time. Link:  https://meet.google.com/wca-mamu-oxt
+Join final evaluation call at **5th October 14:00 CET** time. Link:  https://meet.google.com/wca-mamu-oxt
+
+## For teams 
+If you **not able to join dedicated checkpoint with your mentor** for many reason, please join this meetings:
+
+## ✅ General Checkpoint (backup)  
+
+### 🛰️ Checkpoint #1  
+**📅 Date:** Saturday, 4 October  
+**🕐 Time:** 11:00 AM – 12:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/seh-yixk-wjr)
+
+### 🚀 Checkpoint #2  
+**📅 Date:** Saturday, 4 October  
+**🕖 Time:** 7:00 PM – 8:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/ijf-fvaz-mhz)
+
+
+### 🌌 Checkpoint #3  
+**📅 Date:** Sunday, 5 October  
+**🕚 Time:** 11:00 AM – 12:00 PM (Europe/Zurich)  
+**🔗 Google Meet:** [Join Meeting](https://meet.google.com/ysy-szng-hnz)
+
 
 | Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
 |---|---|---|---|---|---|
