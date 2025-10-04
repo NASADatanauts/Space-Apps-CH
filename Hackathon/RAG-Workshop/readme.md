@@ -1,8 +1,18 @@
-## 🧠 Workshop Overview  
-**Title:** Deep Learning in Economics – Models, Applications & Critical Insights  
+## 🧠 🚀 Workshop: Building a Simple Retrieval-Augmented Generator (RAG) with OpenAI
+
+**Subtitle** : Talk with your PDFs!
 **Facilitator:** [Dr. Stefanie Wedel](https://www.linkedin.com/in/stefaniewedel)
 
-In this workshop, **Dr. Stefanie Wedel** explored how deep learning is transforming modern economics — from predictive modeling and financial forecasting to policy optimization and intelligent decision-making.  
+
+In this workshop, **Dr. Stefanie Wedel** explored how Build a simple RAG pipeline that scales.
+
+🌟 What You’ll Learn
+- Load and process PDFs from Google Drive
+- Clean and chunk text into manageable pieces
+- Create embeddings with OpenAI
+- Build a vector database (FAISS) for fast search
+- Retrieve relevant chunks in response to questions
+- Use OpenAI’s Chat API to generate answers from context
 
 Participants were introduced to key architectures such as **DNNs**, **CNNs**, **RNNs**, and hybrid models, and discussed their applications across **macroeconomics**, **financial markets**, and **sustainable development analysis**.  
 
