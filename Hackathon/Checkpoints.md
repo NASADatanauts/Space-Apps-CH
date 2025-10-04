@@ -33,70 +33,43 @@ If you **not able to join dedicated checkpoint with your mentor** for many reaso
 
 | Mentor Name | Team|  4th Oct 11:00 | 4th Oct 19:00 | 5th Oct 11:00 |  Calendly |
 |---|---|---|---|---|---|
-| Afsheen Ismail Wey | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Heather Clark | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3  | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Cristina Vazquez Reynel |Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Iram Amjad | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Siddharth Gupta | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3 |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Daniel Rodriguez Gutierrez | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3| [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
-| Roman Klis | Team  | Checkpoint #1 | Checkpoint #2 | Checkpoint #3|  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-|  | ✅ Team 1 |  |  |  |  |  |
-|  | ✅ Team 2 |  |  |  |  |  |
-|  | ✅ Team 3 |  |  |  |  |  |
+
 
 ## 🚀 Teams – NASA Space Apps Challenge Zurich 2025
 
+| Name | Format | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | NASA Profile |
+|---|---|---|---|---|---|
+| EXOSOLAR AI | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/exosolar-ai/) |
+| TerraTrace | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/terratrace/) |
+| SARGuardians | Virtual | ✅ | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/sarguardians/) |
+| Ryks8Mortys | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/ryks8mortys/) |
+| Per Aspera | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/per-aspera/) |
+| Old Farmer | Virtual | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/old-farmer/) |
+| Sureal | Virtual | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/sureal/) |
+| Pixub Space Program | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/pixub-space-program/) |
+| Fachverein Physik UZH | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/fachverein-physik-uzh/) |
+| Solvion | Virtual | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/solvion/) |
+| NSS – NASA SPACE SERVICES | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/nss-nasa-space-services/) |
+| Cosmo Hunters | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/cosmo-hunters/) |
+| MetroMeteor | Virtual | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/metrometeor/) |
+| ZuriNova | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/zurinova/) |
+| Space Path | Onsite | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/space-path/) |
+| Astral DataPulseAi | Virtual | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](https://www.spaceappschallenge.org/find-a-team/astral-datapulseai/) |
+
+
 | Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | Calendly |
 |---|---|---|---|---|
-| TerraTrace | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| SARGuardians | ✅ | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Ryks8Mortys | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Per Aspera | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Old Farmer | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 | Switzerland International Team | ❌ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Sureal | ✅ | ❌ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Pixub Space Program | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Fachverein Physik UZH | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Solvion | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| NSS – NASA SPACE SERVICES | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Cosmo Hunters | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| MetroMeteor | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| ZuriNova | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Space Path | ✅ | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Astral DataPulseAi | – | ✅ | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Why Not | – | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| The Upper world | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| LDI | – | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Alterra | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Evilcorp | – | – | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| Stars in the sky | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
+| The Upper world | – | –  | ⏳ | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
 
 ### Legend
 ✅ = Passed checkpoint  
-❌ = Did not show / discontinued  
+❌ = Did not show  
 ⏳ = Pending (next checkpoint or final review)  
 – = No data for that checkpoint
-
-## Teams
-
-| Name | Checkpoint 1 | Checkpoint 2 | Checkpoint 3 | Calendly |
-|---|---|---|---|---|
-| Team 1  | ✅  | ✅  | ✅  | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 2 | ✅  | ✅  | ✅   | [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 3 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 4 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 5 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 6 | ✅  | ✅  | ✅  |   [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
-| Team 7 | ✅  | ✅  | ✅  |  [<img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="24"/>](YOUR_CALENDLY_URL) |
