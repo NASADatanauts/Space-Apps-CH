@@ -1,6 +1,7 @@
 ## 🧠 🚀 Workshop: Building a Simple Retrieval-Augmented Generator (RAG) with OpenAI
 
 **Subtitle** : Talk with your PDFs!
+
 **Facilitator:** [Stefanie Wedel](https://www.linkedin.com/in/stefaniewedel)
 
 
