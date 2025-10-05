@@ -1,10 +1,10 @@
 ## 🧠 🚀 Workshop: Building a Simple Retrieval-Augmented Generator (RAG) with OpenAI
 
 **Subtitle** : Talk with your PDFs!
-**Facilitator:** [Dr. Stefanie Wedel](https://www.linkedin.com/in/stefaniewedel)
+**Facilitator:** [Stefanie Wedel](https://www.linkedin.com/in/stefaniewedel)
 
 
-In this workshop, **Dr. Stefanie Wedel** explored how Build a simple RAG pipeline that scales.
+In this workshop, **Stefanie Wedel** explored how Build a simple RAG pipeline that scales.
 
 🌟 What You’ll Learn
 - Load and process PDFs from Google Drive
