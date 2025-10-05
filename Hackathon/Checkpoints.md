@@ -7,7 +7,7 @@ Information for the team mentors:
 ## Team Mentors and Experts
 **Expert feedback after consultations**: https://forms.gle/87tMkgQGjudKeEhN6
 
-Join final evaluation call at **5th October 14:00 CET** time. Link:  https://meet.google.com/wca-mamu-oxt
+Join final evaluation call at **5th October 14:00 CET** time. 
 
 ## For Teams 
 If you **not able to join dedicated checkpoint with your mentor** for many reason, please join this meetings:
