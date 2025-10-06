@@ -1,6 +1,11 @@
 # 🚀 NASA Space Apps Hackathon Zurich 2025  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=space-apps-ch.SpaceApps2025)
 
+Judging begins! Experts from NASA, Space Agency Partners, and industry leaders will evaluate the projects. Your Local Event will also be completing judging to nominate projects for Global Awards.
+- **Global Nominees** will be announced on **November 5**.
+- **Global Finalists** and Honorable Mentions will be announced on **November 26**.
+- **Global Winners** will be announced on **December 18**.
+For more detailed information, read the Judging & Awards Guide.https://www.spaceappschallenge.org/resources/judging-awards-guide/
 
 ## SOLVE REAL-WORLD CHALLENGES ON EARTH & IN SPACE
 The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in Space.
