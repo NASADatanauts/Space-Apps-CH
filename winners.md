@@ -3,6 +3,7 @@
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
 After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and [pictures!](https://adobe.ly/46GO7ry)
 
+[🎥 Watch the Live Stream of Pitches](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG)
 
 ## 🏆 2025 Local Winners
 
@@ -48,11 +49,11 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 **Team mentor:** [Siddharth Gupta ](https://www.linkedin.com/in/sid88in/)
 
 **Team Members:**  
-- Anastasiia Zhigaleva (Cyprus) – *Team Owner*  
-- Yaroslav (Russia)  
-- Tairi Razije (Switzerland)  
-- Erik Lundgren (Switzerland)  
-- Gülüzar Durmaz Pieńkowski (Switzerland)
+- **Anastasiia Zhigaleva** (Cyprus) – *Team Owner*  
+- **Yaroslav** (Russia)  
+- **Tairi Razije** (Switzerland)  
+- **Erik Lundgren** (Switzerland)  
+- **Gülüzar Durmaz Pieńkowski** (Switzerland)
    
 ---
 # 🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project)
@@ -100,11 +101,13 @@ Users can upload astronomical data files, which the system processes with a **Ra
 Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan demonstrates how AI can accelerate astronomical discovery and empower both scientists and enthusiasts to explore the universe.  
 
 🔗 **Demo:** [YouTube](https://youtu.be/OUJFISELeyY) | [Live Project](https://frontend-46584543327.europe-west6.run.app/)  
+
 **Team mentor:** [Aylin Guler ](https://www.linkedin.com/in/guleraylin/)
+
 **Team Members:**  
-- Dmytro Puntus (Switzerland) – *Team Owner*  
-- Danylo Maltsev (Switzerland)  
-- Ivan Puntus (Switzerland)
+- **Dmytro Puntus** (Switzerland) – *Team Owner*  
+- **Danylo Maltsev** (Switzerland)  
+- **Ivan Puntus** (Switzerland)
 
 
 
@@ -127,12 +130,14 @@ This innovation supports **smarter grid management**, reduces **balancing energy
 Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project includes an **interactive interface** for visualizing forecasts by time and region, making solar planning more accessible for utilities and researchers alike.  
 
 🔗 **Demo:** [Presentation](https://docs.google.com/presentation/d/1LXQIULrOr0HBMFywZPA0iY0oDbmVRiJa/edit?usp=sharing) | [GitHub](https://github.com/marndr/solvion-nasa-space-apps-2025)  
+
 **Team mentor:**  [Roman Klis ](https://www.linkedin.com/in/roman-pawel-klis-3811994/)
+
 **Team Members:**  
-- Maryam Naderi (Switzerland) – *Team Owner*  
-- Dineshkumar Ayyavoo (India)  
-- Till Hauer (Germany)  
-- Jonas Gustav Henriksson (Switzerland)
+- **Maryam Naderi** (Switzerland) – *Team Owner*  
+- **Dineshkumar Ayyavoo** (India)  
+- **Till Hauer** (Germany)  
+- **Jonas Gustav Henriksson** (Switzerland)
 
 ```
 
