@@ -46,6 +46,10 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 
 🔗 **Demo:** [YouTube](https://youtu.be/OUJFISELeyY) | [Live Project](https://frontend-46584543327.europe-west6.run.app/)  
 **Team mentor:** _TBD_
+**Team Members:**  
+- Dmytro Puntus (Switzerland) – *Team Owner*  
+- Danylo Maltsev (Switzerland)  
+- Ivan Puntus (Switzerland)
 
 
 🎖️ **People’s Choice Award:** Solvion, Hybrid, Victorinox knife
