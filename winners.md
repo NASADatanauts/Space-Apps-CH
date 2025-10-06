@@ -8,6 +8,26 @@ After an amazing weekend of **problem-solving, exploration, and inspiration**, h
 🥇 **1st Place:** Ryks8Mortys, Victorinox knifes 
 https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/
 
+🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Victorinox knife*  
+**Project:** *Ryks&Morty* — an AI-powered decision-support platform for sustainable urban traffic management.  
+
+Ryks8Mortys created **Ryks&Morty**, an intelligent simulation platform that helps **city planners optimize traffic flow** and **reduce congestion** using **reinforcement learning** and **environmental modeling**.  
+The system simulates Zurich’s road network with **SUMO (Simulation of Urban Mobility)** and **Reinforcement Learning agents**, allowing planners to experiment with traffic light coordination, road closures, and emergency scenarios. It integrates data on **pollution, CO₂ emissions, and mobility patterns**, helping evaluate both **mobility efficiency** and **environmental impact**.  
+
+Through realistic simulations, the platform supports **evidence-based decision-making** — enabling planners to predict how infrastructure changes or large events (like Zurich’s Street Parade) will affect the city. The result is a tool that contributes to **smarter, cleaner, and more resilient cities**.  
+
+Built using **Python**, **SUMO-RL**, **React**, and **Scikit-learn**, the project demonstrates how AI and open urban data can enhance real-world decision-making for sustainable mobility planning.  
+
+🔗 **Demo:** [Video Presentation](https://drive.google.com/file/d/1FoDM6NWZesRWS4UVewxXsuaDSg4epQ0Y/view) | [GitHub](https://github.com/agoniko/NASA)  
+**Team mentor:** _TBD_
+
+#### **Team Members**  
+- **Federico Fiorio** (Team Owner) – Italy  
+- **Massimiliano Visconti** – Italy  
+- **Riccardo** – Italy  
+- **Nicolò Agostara** – Italy  
+
+---
 🥈 **2nd Place:** Per Aspera,  gift cards from Galaxus 
 https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/
 🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) — *Award: Galaxus gift cards*  
@@ -27,8 +47,9 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 - Yaroslav (Russia)  
 - Tairi Razije (Switzerland)  
 - Erik Lundgren (Switzerland)  
-- Gülüzar Durmaz Pieńkowski (Switzerland)  
-
+- Gülüzar Durmaz Pieńkowski (Switzerland)
+   
+---
 🥉 **3rd Place:** TerraTrace , gift bags from MeteoMatics 
 
 ---
@@ -54,8 +75,30 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 
 🎖️ **People’s Choice Award:** Solvion, Hybrid, Victorinox knife
 https://www.spaceappschallenge.org/2025/find-a-team/solvion/
-
 ---
+🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Hybrid, Victorinox knife*  
+**Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
+
+Solvion developed a **machine learning model** that predicts **daily photovoltaic (PV) energy production** using **hourly weather forecasts** from NASA POWER and Meteomatics APIs.  
+By analyzing key meteorological features such as radiation, temperature, humidity, wind, and cloud cover, their system helps **grid operators anticipate solar energy fluctuations** and **optimize energy planning**.  
+
+The team compared multiple models and found that their **LSTM-based approach** achieved the best accuracy by capturing temporal weather patterns and improving forecast reliability — even with limited PV data availability.  
+This innovation supports **smarter grid management**, reduces **balancing energy costs**, and contributes to a more **resilient and sustainable energy system**.  
+
+Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project includes an **interactive interface** for visualizing forecasts by time and region, making solar planning more accessible for utilities and researchers alike.  
+
+🔗 **Demo:** [Presentation](https://docs.google.com/presentation/d/1LXQIULrOr0HBMFywZPA0iY0oDbmVRiJa/edit?usp=sharing) | [GitHub](https://github.com/marndr/solvion-nasa-space-apps-2025)  
+**Team mentor:** _TBD_
+**Team mentor:** _TBD_
+
+**Team Members:**  
+- Maryam Naderi (Switzerland) – *Team Owner*  
+- Dineshkumar Ayyavoo (India)  
+- Till Hauer (Germany)  
+- Jonas Gustav Henriksson (Switzerland)
+- 
+---
+```
 
 👏 We’re so proud of every participant who took part, shared ideas, and **pushed the boundaries of what’s possible with NASA data and technology**.
 
