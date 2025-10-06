@@ -1,13 +1,16 @@
 # 🚀🌌 NASA Space Apps Challenge — Winners Announcement! 🌍
 
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
-After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results:
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
+After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and ![pictures!](https://adobe.ly/46GO7ry)
 
 
 ## 🏆 Local Winners:
 
 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Victorinox knife*  
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
+
+
 
 **Project:** *Ryks&Morty* — an AI-powered decision-support platform for sustainable urban traffic management.  
 
