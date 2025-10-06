@@ -23,7 +23,7 @@ Through realistic simulations, the platform supports **evidence-based decision-m
 Built using **Python**, **SUMO-RL**, **React**, and **Scikit-learn**, the project demonstrates how AI and open urban data can enhance real-world decision-making for sustainable mobility planning.  
 
 🔗 **Demo:** [Video Presentation](https://drive.google.com/file/d/1FoDM6NWZesRWS4UVewxXsuaDSg4epQ0Y/view) | [GitHub](https://github.com/agoniko/NASA)  
-**Team mentor:** _TBD_
+**Team mentor:** 	Roman Klis
 
 #### **Team Members**  
 - **Federico Fiorio** (Team Owner) – Italy  
@@ -45,7 +45,7 @@ The app presents both **safe and alternative routes** on an interactive map, enh
 Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted prototyping**, synthetic data generation, and NASA-powered mapping to create a solution that improves both **actual and perceived safety** for women walking at night.  
 
 🔗 **Demo:** [YouTube](https://www.youtube.com/watch?v=jro9jUiis7U) | [Project Repository](https://github.com/destros52/HackPerAspera/tree/test)  
-**Team mentor:** _TBD_
+**Team mentor:** 	Siddharth Gupta
 
 **Team Members:**  
 - Anastasiia Zhigaleva (Cyprus) – *Team Owner*  
@@ -73,7 +73,7 @@ This project showcases how **AI and data analytics** can guide effective solutio
 - Support climate-resilient decision-making  
 - Enhance efficiency and sustainability in food systems  
 
-#### **Team mentor:** _TBD_  
+#### **Team mentor:** Siddharth Gupta  
 **Team Members:**  
 - **Shilpi Garg** (Team Owner) – Switzerland  
 - **Paul Henes** – Germany  
@@ -99,7 +99,7 @@ Users can upload astronomical data files, which the system processes with a **Ra
 Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan demonstrates how AI can accelerate astronomical discovery and empower both scientists and enthusiasts to explore the universe.  
 
 🔗 **Demo:** [YouTube](https://youtu.be/OUJFISELeyY) | [Live Project](https://frontend-46584543327.europe-west6.run.app/)  
-**Team mentor:** _TBD_
+**Team mentor:** Aylin Guler
 **Team Members:**  
 - Dmytro Puntus (Switzerland) – *Team Owner*  
 - Danylo Maltsev (Switzerland)  
@@ -126,7 +126,7 @@ This innovation supports **smarter grid management**, reduces **balancing energy
 Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project includes an **interactive interface** for visualizing forecasts by time and region, making solar planning more accessible for utilities and researchers alike.  
 
 🔗 **Demo:** [Presentation](https://docs.google.com/presentation/d/1LXQIULrOr0HBMFywZPA0iY0oDbmVRiJa/edit?usp=sharing) | [GitHub](https://github.com/marndr/solvion-nasa-space-apps-2025)  
-**Team mentor:** _TBD_
+**Team mentor:** Roman Klis
 
 **Team Members:**  
 - Maryam Naderi (Switzerland) – *Team Owner*  
