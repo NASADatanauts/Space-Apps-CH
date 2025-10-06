@@ -48,14 +48,9 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 - Gülüzar Durmaz Pieńkowski (Switzerland)
    
 ---
-🥉 **3rd Place:** TerraTrace , gift bags from MeteoMatics 
-🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags*  
-**Local Event:** Zurich, Switzerland  
-**Challenge:** Create Your Own Challenge  
 
-🥉 **3rd Place:** TerraTrace — *Award: Meteomatics gift bags*  
-**Local Event:** Zurich, Switzerland  
-**Challenge:** Create Your Own Challenge  
+🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags*  
+
 
 #### **Summary**  
 TerraTrace developed a **data-driven platform for climate-smart food supply management**. The application leverages **machine learning, smart visualizations, and data analytics** to optimize food sourcing, forecasting, and supply chains while accounting for **climate variability** and its impact on food systems.  
@@ -98,8 +93,7 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 - Ivan Puntus (Switzerland)
 
 
-🎖️ **People’s Choice Award:** Solvion, Hybrid, Victorinox knife
-https://www.spaceappschallenge.org/2025/find-a-team/solvion/
+
 ---
 🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Hybrid, Victorinox knife*  
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
