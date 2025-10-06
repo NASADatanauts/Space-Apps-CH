@@ -5,6 +5,7 @@ Judging begins! Experts from NASA, Space Agency Partners, and industry leaders w
 - **Global Nominees** will be announced on **November 5**.
 - **Global Finalists** and Honorable Mentions will be announced on **November 26**.
 - **Global Winners** will be announced on **December 18**.
+  
 For more detailed information, read the 👉 [Judging & Awards Guide](https://www.spaceappschallenge.org/resources/judging-awards-guide/)
 
 ## SOLVE REAL-WORLD CHALLENGES ON EARTH & IN SPACE
