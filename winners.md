@@ -5,10 +5,9 @@ After an amazing weekend of **problem-solving, exploration, and inspiration**, h
 
 
 ## 🏆 Local Winners:
-🥇 **1st Place:** Ryks8Mortys, Victorinox knifes 
-https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/
 
 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Victorinox knife*  
+
 **Project:** *Ryks&Morty* — an AI-powered decision-support platform for sustainable urban traffic management.  
 
 Ryks8Mortys created **Ryks&Morty**, an intelligent simulation platform that helps **city planners optimize traffic flow** and **reduce congestion** using **reinforcement learning** and **environmental modeling**.  
@@ -28,8 +27,7 @@ Built using **Python**, **SUMO-RL**, **React**, and **Scikit-learn**, the projec
 - **Nicolò Agostara** – Italy  
 
 ---
-🥈 **2nd Place:** Per Aspera,  gift cards from Galaxus 
-https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/
+
 🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) — *Award: Galaxus gift cards*  
 **Project:** *AURA* — a navigation app designed to enhance women’s safety in urban environments.  
 
@@ -51,6 +49,9 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
    
 ---
 🥉 **3rd Place:** TerraTrace , gift bags from MeteoMatics 
+🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags*  
+**Local Event:** Zurich, Switzerland  
+**Challenge:** Create Your Own Challenge  
 
 🥉 **3rd Place:** TerraTrace — *Award: Meteomatics gift bags*  
 **Local Event:** Zurich, Switzerland  
