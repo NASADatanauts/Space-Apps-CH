@@ -4,10 +4,10 @@ A huge **congratulations** to all our incredible teams for their **creativity, c
 After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and [pictures!](https://adobe.ly/46GO7ry)
 
 
-## 🏆 Local Winners:
+## 🏆 2025 Local Winners
 
 
-
+# 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/)
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
 
 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Victorinox knife*  
@@ -32,6 +32,8 @@ Built using **Python**, **SUMO-RL**, **React**, and **Scikit-learn**, the projec
 - **Nicolò Agostara** – Italy  
 
 ---
+# 🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) 
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/1278dc65-78d3-4d8a-ad17-76ad96168a60" />
 
 🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) — *Award: Galaxus gift cards*  
 **Project:** *AURA* — a navigation app designed to enhance women’s safety in urban environments.  
@@ -53,6 +55,8 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 - Gülüzar Durmaz Pieńkowski (Switzerland)
    
 ---
+# 🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project)
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/77445933-baa8-48bf-9dfe-17f359da9a99" />
 
 🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags*  
 
@@ -81,6 +85,9 @@ This project showcases how **AI and data analytics** can guide effective solutio
 
 ## 💫 Special Recognitions:
 🌍 **Global Nominee:** Cosmo Hunters  
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b630c1a-2c66-4024-a12c-8e7bf393b65f" />
+
 https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/
 ### 🌍 Global Nominee: [Cosmo Hunters](https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/)  
 **Project:** *CosmoScan* — an AI-powered tool for exoplanet discovery.  
@@ -102,6 +109,9 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 ---
 🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Hybrid, Victorinox knife*  
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/cabe8984-583f-4c05-b922-4db428b44161" />
+
 
 Solvion developed a **machine learning model** that predicts **daily photovoltaic (PV) energy production** using **hourly weather forecasts** from NASA POWER and Meteomatics APIs.  
 By analyzing key meteorological features such as radiation, temperature, humidity, wind, and cloud cover, their system helps **grid operators anticipate solar energy fluctuations** and **optimize energy planning**.  
