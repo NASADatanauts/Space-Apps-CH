@@ -1,7 +1,9 @@
 # 🚀 NASA Space Apps Hackathon Zurich 2025  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=space-apps-ch.SpaceApps2025)
 
-Judging begins! Experts from NASA, Space Agency Partners, and industry leaders will evaluate the projects. Your Local Event will also be completing judging to nominate projects for Global Awards.
+## Judging begins! 
+
+Experts from NASA, Space Agency Partners, and industry leaders will evaluate the projects. Your Local Event will also be completing judging to nominate projects for Global Awards.
 - **Global Nominees** will be announced on **November 5**.
 - **Global Finalists** and Honorable Mentions will be announced on **November 26**.
 - **Global Winners** will be announced on **December 18**.
