@@ -2,6 +2,7 @@
 
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
 After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results:
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
 
 
 ## 🏆 Local Winners:
