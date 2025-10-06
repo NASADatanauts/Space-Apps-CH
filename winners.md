@@ -84,7 +84,8 @@ This project showcases how **AI and data analytics** can guide effective solutio
 ---
 
 ## 💫 Special Recognitions:
-🌍 **Global Nominee:** Cosmo Hunters  
+
+# 🌍 Global Nominee: [Cosmo Hunters](https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/) 
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b630c1a-2c66-4024-a12c-8e7bf393b65f" />
 
@@ -107,11 +108,14 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 
 
 ---
-🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Hybrid, Victorinox knife*  
+# 🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/)
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/cabe8984-583f-4c05-b922-4db428b44161" />
 
+🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Hybrid, Victorinox knife*  
+
+**Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
 
 Solvion developed a **machine learning model** that predicts **daily photovoltaic (PV) energy production** using **hourly weather forecasts** from NASA POWER and Meteomatics APIs.  
 By analyzing key meteorological features such as radiation, temperature, humidity, wind, and cloud cover, their system helps **grid operators anticipate solar energy fluctuations** and **optimize energy planning**.  
@@ -123,15 +127,13 @@ Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project include
 
 🔗 **Demo:** [Presentation](https://docs.google.com/presentation/d/1LXQIULrOr0HBMFywZPA0iY0oDbmVRiJa/edit?usp=sharing) | [GitHub](https://github.com/marndr/solvion-nasa-space-apps-2025)  
 **Team mentor:** _TBD_
-**Team mentor:** _TBD_
 
 **Team Members:**  
 - Maryam Naderi (Switzerland) – *Team Owner*  
 - Dineshkumar Ayyavoo (India)  
 - Till Hauer (Germany)  
 - Jonas Gustav Henriksson (Switzerland)
-- 
----
+
 ```
 
 👏 We’re so proud of every participant who took part, shared ideas, and **pushed the boundaries of what’s possible with NASA data and technology**.
