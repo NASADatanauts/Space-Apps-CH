@@ -22,6 +22,13 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 🔗 **Demo:** [YouTube](https://www.youtube.com/watch?v=jro9jUiis7U) | [Project Repository](https://github.com/destros52/HackPerAspera/tree/test)  
 **Team mentor:** _TBD_
 
+**Team Members:**  
+- Anastasiia Zhigaleva (Cyprus) – *Team Owner*  
+- Yaroslav (Russia)  
+- Tairi Razije (Switzerland)  
+- Erik Lundgren (Switzerland)  
+- Gülüzar Durmaz Pieńkowski (Switzerland)  
+
 🥉 **3rd Place:** TerraTrace , gift bags from MeteoMatics 
 
 ---
