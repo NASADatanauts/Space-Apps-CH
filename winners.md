@@ -3,8 +3,14 @@
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
 After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and [pictures!](https://adobe.ly/46GO7ry)
 
+### 🌍 NASA Space Apps Challenge Zurich 2025 – What a Weekend! 🚀✨
 
-## 🏆 2025 Local Winners
+162 registrations, 26 teams formed, 13 pitched live on stage (including 2 virtual teams), supported by 27 expert mentors and 6 team mentors — all in just 48 hours! 💡
+
+Our 5 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
+
+
+# 🏆 2025 Local Winners
 
 
 # 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/)
