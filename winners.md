@@ -76,8 +76,6 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 
 🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags, tickets to InterGeo 2025 and  2 tickets to WIDS Conference 2026*  
 
-
-#### **Summary**  
 TerraTrace developed a **data-driven platform for climate-smart food supply management**. The application leverages **machine learning, smart visualizations, and data analytics** to optimize food sourcing, forecasting, and supply chains while accounting for **climate variability** and its impact on food systems.  
 
 The platform empowers decision-makers to **reduce food waste, optimize costs, and support sustainable, climate-resilient practices** through **intuitive dashboards and interactive interfaces**. By combining technology, sustainability, and innovation, TerraTrace helps make food management **smarter, greener, and more impactful**.  
