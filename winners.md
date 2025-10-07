@@ -3,7 +3,6 @@
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
 After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and [pictures!](https://adobe.ly/46GO7ry)
 
-[🎥 Watch the Live Stream of Pitches](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG)
 
 ## 🏆 2025 Local Winners
 
@@ -11,7 +10,7 @@ After an amazing weekend of **problem-solving, exploration, and inspiration**, h
 # 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/)
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
 
-🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Victorinox knife*  
+🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/) — *Award: Tickets to CYSAT PARIS 2026, Victorinox knifes*  
 
 
 **Project:** *Ryks&Morty* — an AI-powered decision-support platform for sustainable urban traffic management.  
@@ -139,6 +138,8 @@ Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project include
 - **Till Hauer** (Germany)  
 - **Jonas Gustav Henriksson** (Switzerland)
 
+
+[🎥 Watch the Live Stream of Pitches](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG)
 ```
 
 👏 We’re so proud of every participant who took part, shared ideas, and **pushed the boundaries of what’s possible with NASA data and technology**.
