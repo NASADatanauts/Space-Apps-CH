@@ -35,7 +35,7 @@ Built using **Python**, **SUMO-RL**, **React**, and **Scikit-learn**, the projec
 # 🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) 
 <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/1278dc65-78d3-4d8a-ad17-76ad96168a60" />
 
-🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) — *Award: Galaxus gift cards, tickets to InterGeo*  
+🥈 **2nd Place:** [Per Aspera](https://www.spaceappschallenge.org/2025/find-a-team/per-aspera5/) — *Award: Galaxus gift cards, tickets to InterGeo, 2 tickets to WIDS Conference 2026*  
 **Project:** *AURA* — a navigation app designed to enhance women’s safety in urban environments.  
 
 Per Aspera developed **AURA**, a smart navigation app that helps users find the **safest walking routes** through cities at night. By combining **NASA satellite imagery** with **urban open data**—including Zurich’s streetlight intensity maps, live pedestrian flow data, and community reports of unsafe areas—AURA calculates and displays the most secure paths using an **A\*** routing algorithm.  
@@ -58,7 +58,7 @@ Developed with a **Java backend** and **HTML UI**, AURA blends **AI-assisted pro
 # 🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project)
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/77445933-baa8-48bf-9dfe-17f359da9a99" />
 
-🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags, tickets to InterGeo 2025 and WIDS conference 2026*  
+🥉 **3rd Place:** [TerraTrace](https://www.spaceappschallenge.org/2025/find-a-team/terratrace/?tab=project) — *Award: Meteomatics gift bags, tickets to InterGeo 2025 and  2 tickets to WIDS Conference 2026*  
 
 
 #### **Summary**  
