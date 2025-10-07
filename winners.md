@@ -87,8 +87,8 @@ This project showcases how **AI and data analytics** can guide effective solutio
 - Support climate-resilient decision-making  
 - Enhance efficiency and sustainability in food systems  
 
- 
 **Team mentor:** [Siddharth Gupta ](https://www.linkedin.com/in/sid88in/) 
+
 **Team Members:**  
 - **Shilpi Garg** (Team Owner) – Switzerland  
 - **Paul Henes** – Germany  
