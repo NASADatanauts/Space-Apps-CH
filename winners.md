@@ -112,10 +112,9 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 
 ---
 # 🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/)
-**Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/cabe8984-583f-4c05-b922-4db428b44161" />
-
+**Project:** *Solvion* — smarter solar energy forecasting for a sustainable future. 
 🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Tickets to RedBull Media, Victorinox knife*  
 
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
