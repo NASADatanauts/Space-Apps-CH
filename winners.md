@@ -91,7 +91,7 @@ This project showcases how **AI and data analytics** can guide effective solutio
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b630c1a-2c66-4024-a12c-8e7bf393b65f" />
 
 https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/
-🎖️ **Global Nominee Award:** [Cosmo Hunters](https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/)   — Award: Tickets to RedBull Media  
+🎖️ **Global Nominee Award:** [Cosmo Hunters](https://www.spaceappschallenge.org/2025/find-a-team/cosmo-hunters/)   — Award: Tickets to Red Bull Media World 
 **Project:** *CosmoScan* — an AI-powered tool for exoplanet discovery.  
 
 Cosmo Hunters created **CosmoScan**, a machine learning platform that automates the identification of potential exoplanets from NASA’s **Kepler Objects of Interest (KOI)** dataset.  
@@ -115,7 +115,7 @@ Built with **React + TypeScript**, **FastAPI**, and **Google Cloud**, CosmoScan 
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/cabe8984-583f-4c05-b922-4db428b44161" />
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future. 
-🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Tickets to RedBull Media, Victorinox knife*  
+🎖️ **People’s Choice Award:** [Solvion](https://www.spaceappschallenge.org/2025/find-a-team/solvion/) — *Award: Tickets to Red Bull Media World, Victorinox knife*  
 
 **Project:** *Solvion* — smarter solar energy forecasting for a sustainable future.  
 
