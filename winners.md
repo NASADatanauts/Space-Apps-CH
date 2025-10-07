@@ -5,10 +5,20 @@ After an amazing weekend of **problem-solving, exploration, and inspiration**, h
 
 ### 🌍 NASA Space Apps Challenge Zurich 2025 – What a Weekend! 🚀✨
 
-162 registrations, 26 teams formed, 13 pitched live on stage (including 2 virtual teams), supported by 27 expert mentors and 6 team mentors — all in just 48 hours! 💡
+Overall around **163 Registrations**: The **majority of participants** came from **Switzerland**, followed by strong representation from **Germany, France, Italy, India, Spain,** and the **United States**. Smaller but valuable contributions came from **Pakistan, Bangladesh, Russia, Tunisia, Iraq, Ireland,** and **Mexico**.  
+A few participants also joined from **Ukraine, the Netherlands, Romania, Czechia, Lebanon, Bahrain, Cyprus, Costa Rica, Kyrgyzstan, the Philippines, Egypt, Vietnam,** and **Colombia** — showcasing truly **global diversity across 27 countries**. 🌍✨  
+
+In total, **27 teams** were created, with **13 pitching on stage**, including **2 virtual teams**, supported by 27 expert mentors and 6 team mentors — all in just 48 hours! 💡  
+The **winning team** traveled all the way from **Milan**, while many others joined **onsite from Germany, France, Cyprus, and the Netherlands**, making this year’s challenge a truly international celebration of innovation! 🚀🌌  
+
+Gender balance: 
+- 👩 **Women:** 63  
+- 👨 **Men:** 90  
+- 📊 **Percentage of women:** **≈ 41%**
+
+This means that **4 out of every 10 participants** were women — a fantastic sign of growing diversity and inclusion in tech, data, and space innovation! 🚀✨
 
 Our 5 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
-
 
 # 🏆 2025 Local Winners
 
