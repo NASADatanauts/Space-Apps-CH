@@ -165,14 +165,13 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 ### 🌟 Volunteers
 
 - [Mykhaylo Yefimenko](https://www.linkedin.com/in/mykhaylo-yefimenko)  
-- [Timur Masenzhuk](https://www.linkedin.com/in/timur-masenzhuk-0380b1210/)  
-- [Anton Nikulin](https://www.linkedin.com/in/anton-nikulin-70b8bb1a1/)  
-- [Yuliia Yaroshchuk](https://www.linkedin.com/in/julia-yaroshchuk/)  
+- [Timur Masenzhuk ](https://www.linkedin.com/in/timur-masenzhuk-0380b1210/)  
 - Valeriia Mykhaylenko *(no LinkedIn)*  
 - Iraida Mykhaylenko *(no LinkedIn)*  
- 
-- [Mariia Koliada](https://www.linkedin.com/in/mariia-koliada/)  
-- [Miroslava Bezugla](https://www.linkedin.com/in/miroslava-bezugla-96432586/)
+- [Mariia Koliada](https://www.linkedin.com/in/mariia-koliada/) 
+- [Anton Nikulin - Video/live stream](https://www.linkedin.com/in/anton-nikulin-70b8bb1a1/)  
+- [Yuliia Yaroshchuk- designer](https://www.linkedin.com/in/julia-yaroshchuk/)  
+- [Miroslava Bezugla - Interviewer](https://www.linkedin.com/in/miroslava-bezugla-96432586/)
 - [Anna Yakymovych - Photographer](https://www.linkedin.com/in/anna-y-659753313/)  
 - [Viktoria Oznobishina - Dj](https://www.linkedin.com/in/viktoria-oznobishina/) 
 
