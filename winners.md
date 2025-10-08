@@ -219,17 +219,15 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 - [Anna Yakymovych - Photographer](https://www.linkedin.com/in/anna-y-659753313/)  
 - [Viktoria Oznobishina - Dj](https://www.linkedin.com/in/viktoria-oznobishina/) 
 
-🎧 Special shout-out to our Photographer & DJ — for making the event unforgettable with energy, music, and great memories captured. 📸🎶
+🎧 **Special shout-out to our Photographer & DJ** — your energy, music, and captured memories made the event truly unforgettable. 📸🎶
 
-
-Our core team of organoyers are also volunteers! 
-
+### 🏆 Our Core Organizers (also amazing volunteers!)
 -Location Lead [Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
 -Co-Organizer [Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
 -Co-Organizer [Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
 
 
-Thank you for be
+💫 **Thank you for being the heart and soul of NASA Space Apps Zurich 2025!**
 
 
 ```
