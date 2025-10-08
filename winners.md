@@ -153,6 +153,33 @@ Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project include
 - **Jonas Gustav Henriksson** (Switzerland)
 
 
+💙 A Massive Thank You to Our Amazing Volunteers! 🙌✨
+
+The NASA Space Apps Challenge Zurich 2025 wouldn’t have been the same without the incredible energy, kindness, and hard work of our volunteers.
+You kept everything running smoothly — from registration and logistics to creative vibes, design, and unforgettable moments at the event. 🚀
+
+We’re so grateful for your support, dedication, and big smiles throughout the hackathon. 🌟
+
+🌍 Our Volunteer Dream Team:
+
+### 🌟 Volunteers
+
+- [Mykhaylo Yefimenko](https://www.linkedin.com/in/mykhaylo-yefimenko)  
+- [Timur Masenzhuk](https://www.linkedin.com/in/timur-masenzhuk-0380b1210/)  
+- [Anton Nikulin](https://www.linkedin.com/in/anton-nikulin-70b8bb1a1/)  
+- [Yuliia Yaroshchuk](https://www.linkedin.com/in/julia-yaroshchuk/)  
+- Valeriia Mykhaylenko *(no LinkedIn)*  
+- Iraida Mykhaylenko *(no LinkedIn)*  
+ 
+- [Mariia Koliada](https://www.linkedin.com/in/mariia-koliada/)  
+- [Miroslava Bezugla](https://www.linkedin.com/in/miroslava-bezugla-96432586/)
+- [Anna Yakymovych - Photographer](https://www.linkedin.com/in/anna-y-659753313/)  
+- [Viktoria Oznobishina - Dj](https://www.linkedin.com/in/viktoria-oznobishina/) 
+
+🎧 Special shout-out to our Photographer & DJ — for making the event unforgettable with energy, music, and great memories captured. 📸🎶
+
+Thank you for be
+
 [🎥 Watch the Live Stream of Pitches](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG)
 ```
 
