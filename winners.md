@@ -188,7 +188,15 @@ Built with **Python, PyTorch, Scikit-learn, and Streamlit**, the project include
 - **Jonas Gustav Henriksson** (Switzerland)
 
 
-💙 A Massive Thank You to Our Amazing Volunteers! 🙌✨
+---
+# 💙 **A Massive Thank You to Our Incredible Volunteers!** 🙌✨
+
+The NASA Space Apps Challenge Zurich 2025 wouldn’t have been the same without the **energy, kindness, and dedication** of our amazing volunteers.  
+You made sure everything ran smoothly — from registration and logistics to creative vibes, design, and unforgettable moments throughout the event. 🚀
+
+We’re so grateful for your support, commitment, and big smiles that kept the hackathon buzzing with positivity. 🌟
+
+### 🌍 Our Volunteer Dream Team
 
 The NASA Space Apps Challenge Zurich 2025 wouldn’t have been the same without the incredible energy, kindness, and hard work of our volunteers.
 You kept everything running smoothly — from registration and logistics to creative vibes, design, and unforgettable moments at the event. 🚀
