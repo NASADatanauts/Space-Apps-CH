@@ -178,6 +178,14 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 
 🎧 Special shout-out to our Photographer & DJ — for making the event unforgettable with energy, music, and great memories captured. 📸🎶
 
+
+Our core team of organoyers are also volunteers! 
+
+[Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
+[Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
+[Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
+
+
 Thank you for be
 
 
