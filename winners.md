@@ -19,6 +19,39 @@ Gender balance:
 This means that **4 out of every 10 participants** were women — a fantastic sign of growing diversity and inclusion in tech, data, and space innovation! 🚀✨
 
 Our 5 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
+### Judges – NASA Space Apps Challenge Zurich 2025
+
+- **Bianca Scheffler** – Head of Artificial Intelligence, KPMG Switzerland  
+- **Aylin Guler** – Head of Product & Business Operations, Samsung Switzerland  
+- **Hannes Matthias Furmans** – CTO, StillWind Labs  
+- **Merle Zur** – CEO @ Novu Campus Co-Host @ Swisspreneur
+- **Luca Humbel** – Product Owner Weather API, Meteomatics AG  
+- **Katharina Fürst** – Deputy CEO, Constructor Academy   
+- **Dr. Aygul Zagidullina** – Professor, Co-Founder Applied AI Center, HULU  
+
+
+# 🚀 Mentors – NASA Space Apps Challenge Zurich 2025
+
+- [BATIKAN BORA ORMANCI](https://linkedin.com/in/batikanor)
+- [Dashevska Tetiana](https://linkedin.com/in/tatyana-dashevska)
+- [Alpha Romer N. Coma](https://linkedin.com/in/alpharomercoma)
+- [Iacopo Testi](https://www.linkedin.com/in/iacopo-testi/)
+- [Sondos Elsayed Ahmed](https://www.linkedin.com/in/sondose30/)
+- [Afsheen Ismail Wey](https://www.linkedin.com/in/afsheenismailwey)
+- [Bianca Scheffler](https://www.linkedin.com/in/bianca-scheffler)
+- [Heather Clark](https://www.linkedin.com/in/heather-pace-clark)
+- [Cristina Vazquez Reynel](https://www.linkedin.com/in/cristinareynel)
+- [Madhumita Mund Rao](https://www.linkedin.com/in/madhumitamundraodata/)
+- [Siddharth Gupta](https://www.linkedin.com/in/sid88in/)
+- [Daniel Rodriguez Gutierrez](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/)
+- [Sumana Vedantam](https://linkedin.com/in/sumanavedantam)
+- [Stefanie Wedel](https://www.linkedin.com/in/stefaniewedel)
+- [Roman Klis](https://www.linkedin.com/in/roman-pawel-klis-3811994/)
+- [Nina Walker](https://www.linkedin.com/in/walker-nina/)
+- [Amirsina Rashidi](https://linkedin.com/in/amirsina-rashidi)
+- [Aylin Guler](https://linkedin.com/in/guleraylin)
+- [Muhammad Faizan Khan](https://www.linkedin.com/in/mfalzankhan/)
+
 
 # 🏆 2025 Local Winners
 🎥 Watch the [Live Stream ](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG) of Pitches
