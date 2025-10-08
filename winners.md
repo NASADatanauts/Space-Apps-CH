@@ -181,9 +181,9 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 
 Our core team of organoyers are also volunteers! 
 
-[Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
-[Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
-[Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
+-Location Lead [Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
+-Co-Organizer [Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
+-Co-Organizer [Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
 
 
 Thank you for be
