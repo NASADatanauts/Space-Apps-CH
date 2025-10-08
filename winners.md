@@ -207,25 +207,32 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 
 ### 🌟 Volunteers
 
+🌟 **Shoutout to Our Catering & Hospitality Team!** 🍽️💙
+A huge thanks to all of you for keeping our participants, mentors, and guests well-fed, happy, and energized throughout the NASA Space Apps Challenge Zurich 2025. Your attention to detail, care, and warm hospitality made everyone feel welcome and supported — from coffee breaks to meal times, you kept the event running smoothly and joyfully! 🙌
 - [Mykhaylo Yefimenko- Onsite Operations](https://www.linkedin.com/in/mykhaylo-yefimenko)  
 - [Timur Masenzhuk - Onsite Operations](https://www.linkedin.com/in/timur-masenzhuk-0380b1210/)  
 - [Mariia Koliada - Onsite Operations](https://www.linkedin.com/in/mariia-koliada/) 
 - Valeriia Mykhaylenko *(Catering & Hospitality)*  
 - Iraida Mykhaylenko *(Catering & Hospitality)* 
-- [Anton Nikulin - Video/live stream](https://www.linkedin.com/in/anton-nikulin-70b8bb1a1/)  
-- [Yevheniia Sirenko - Designer](https://www.linkedin.com/in/yevheniiasirenko/)  
 - [Yuliia Yaroshchuk- Catering & Hospitality](https://www.linkedin.com/in/julia-yaroshchuk/)  
+
+🎨 **Shoutout to Our Amazing Designer!** ✨
+A massive thank you to Yevheniia Sirenko for crafting stunning banners, visuals, and promotional materials that brought the hackathon to life. Your creativity and design expertise gave the event a professional and vibrant look, making every space, presentation, and post shine. 🌍💡
+- [Yevheniia Sirenko - Designer](https://www.linkedin.com/in/yevheniiasirenko/)  
+
+🎧 **Special shout-out to our Interviewer, Photographer & DJ** — your energy, music, and captured memories made the event truly unforgettable. 📸🎶
 - [Miroslava Bezugla - Interviewer](https://www.linkedin.com/in/miroslava-bezugla-96432586/)
 - [Anna Yakymovych - Photographer](https://www.linkedin.com/in/anna-y-659753313/)  
 - [Viktoria Oznobishina - Dj](https://www.linkedin.com/in/viktoria-oznobishina/) 
 
-🎧 **Special shout-out to our Photographer & DJ** — your energy, music, and captured memories made the event truly unforgettable. 📸🎶
+🚀 **Shoutout to Our Live Stream Hero!** 🎥💻
+A massive thank you to Anton Nikulin for powering through 5 hours of non-stop live streaming during the NASA Space Apps Challenge Zurich 2025! Your dedication kept every pitch online, every moment captured, and made the event accessible to our global audience.
+ - [Anton Nikulin - Video/live stream](https://www.linkedin.com/in/anton-nikulin-70b8bb1a1/)  
 
 ### 🏆 Our Core Organizers (also volunteers!)
 -Location Lead [Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
 -Co-Organizer [Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
 -Co-Organizer [Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
-
 
 💫 **Thank you for being the heart and soul of NASA Space Apps Zurich 2025!**
 
