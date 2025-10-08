@@ -8,7 +8,7 @@ After an amazing weekend of **problem-solving, exploration, and inspiration**, h
 Overall around **163 Registrations**: The **majority of participants** came from **Switzerland**, followed by strong representation from **Germany, France, Italy, India, Spain,** and the **United States**. Smaller but valuable contributions came from **Pakistan, Bangladesh, Russia, Tunisia, Iraq, Ireland,** and **Mexico**.  
 A few participants also joined from **Ukraine, the Netherlands, Romania, Czechia, Lebanon, Bahrain, Cyprus, Costa Rica, Kyrgyzstan, the Philippines, Egypt, Vietnam,** and **Colombia** — showcasing truly **global diversity across 27 countries**. 🌍✨  
 
-In total, **27 teams** were created, with **13 pitching on stage**, including **2 virtual teams**, supported by 27 expert mentors and 6 team mentors — all in just 48 hours! 💡  
+In total, **27 teams** were created, with **13 pitching on stage**, including **2 virtual teams**, supported by 20 expert mentors and 6 team mentors — all in just 48 hours! 💡  
 The **winning team** traveled all the way from **Milan**, while many others joined **onsite from Germany, France, Cyprus, and the Netherlands**, making this year’s challenge a truly international celebration of innovation! 🚀🌌  
 
 Gender balance: 
@@ -18,9 +18,9 @@ Gender balance:
 
 This means that **4 out of every 10 participants** were women — a fantastic sign of growing diversity and inclusion in tech, data, and space innovation! 🚀✨
 
-Our 5 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
-### Judges – NASA Space Apps Challenge Zurich 2025
+Our 7 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
 
+### Judges – NASA Space Apps Challenge Zurich 2025
 - **Bianca Scheffler** – Head of Artificial Intelligence, KPMG Switzerland  
 - **Aylin Guler** – Head of Product & Business Operations, Samsung Switzerland  
 - **Hannes Matthias Furmans** – CTO, StillWind Labs  
@@ -31,7 +31,9 @@ Our 5 incredible judges had an extremely tough job selecting the winners — eve
 
 
 # 🚀 Mentors – NASA Space Apps Challenge Zurich 2025
+Our amazing mentors played a crucial role in guiding the teams throughout the hackathon. 💡✨
 
+With your expertise, encouragement, and insights, you helped participants tackle challenges, refine ideas, and push the boundaries of innovation. Every mentor brought creativity, passion, and dedication that made this hackathon truly special. 🌌👏
 - [BATIKAN BORA ORMANCI](https://linkedin.com/in/batikanor)
 - [Dashevska Tetiana](https://linkedin.com/in/tatyana-dashevska)
 - [Alpha Romer N. Coma](https://linkedin.com/in/alpharomercoma)
