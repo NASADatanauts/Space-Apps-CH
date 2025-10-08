@@ -239,6 +239,6 @@ A massive thank you to Anton Nikulin for powering through 5 hours of non-stop li
 
 ```
 
-👏 We’re so proud of every participant who took part, shared ideas, and **pushed the boundaries of what’s possible with NASA data and technology**.
+👏 We’re so proud of every participant who took part, shared ideas, and pushed the boundaries of what’s possible with NASA data and technology.
 
-Stay tuned for updates as our **Global Nominee** advances to the **international judging stage!** 🌠
+Stay tuned for updates as our Global Nominee advances to the international judging stage! 🌠
