@@ -21,7 +21,7 @@ This means that **4 out of every 10 participants** were women — a fantastic si
 Our 5 incredible judges had an extremely tough job selecting the winners — every team brought creativity, passion, and innovation that made this hackathon truly special. 🌌👏
 
 # 🏆 2025 Local Winners
-
+🎥 Watch the [Live Stream ](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG) of Pitches
 
 # 🥇 **1st Place:** [Ryks8Mortys](https://www.spaceappschallenge.org/2025/find-a-team/ryksampmorty/)
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0db94001-4c4d-4ad5-b09d-b4b4217da0d5" />
@@ -180,7 +180,7 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 
 Thank you for be
 
-[🎥 Watch the Live Stream of Pitches](https://www.youtube.com/live/W2fsHLrsV6E?si=boOqEJ16-NlF0yOG)
+
 ```
 
 👏 We’re so proud of every participant who took part, shared ideas, and **pushed the boundaries of what’s possible with NASA data and technology**.
