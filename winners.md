@@ -221,7 +221,7 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 
 🎧 **Special shout-out to our Photographer & DJ** — your energy, music, and captured memories made the event truly unforgettable. 📸🎶
 
-### 🏆 Our Core Organizers (also amazing volunteers!)
+### 🏆 Our Core Organizers (also volunteers!)
 -Location Lead [Tamara Koliada](https://www.linkedin.com/in/tomakoliada/)   
 -Co-Organizer [Alper M. Sametoglu](https://www.linkedin.com/in/alper-sametoglu/)  
 -Co-Organizer [Yulia Yefimenko](https://www.linkedin.com/in/yuliia-yefimenko/)  
