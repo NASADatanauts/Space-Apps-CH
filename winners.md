@@ -211,7 +211,6 @@ We’re so grateful for your support, dedication, and big smiles throughout the 
 A huge thanks to all of you for keeping our participants, mentors, and guests well-fed, happy, and energized throughout the NASA Space Apps Challenge Zurich 2025. Your attention to detail, care, and warm hospitality made everyone feel welcome and supported — from coffee breaks to meal times, you kept the event running smoothly and joyfully! 🙌
 - [Mykhaylo Yefimenko- Onsite Operations](https://www.linkedin.com/in/mykhaylo-yefimenko)  
 - [Timur Masenzhuk - Onsite Operations](https://www.linkedin.com/in/timur-masenzhuk-0380b1210/)  
-- [Mariia Koliada - Onsite Operations](https://www.linkedin.com/in/mariia-koliada/) 
 - Valeriia Mykhaylenko *(Catering & Hospitality)*  
 - Iraida Mykhaylenko *(Catering & Hospitality)* 
 - [Yuliia Yaroshchuk- Catering & Hospitality](https://www.linkedin.com/in/julia-yaroshchuk/)  
