@@ -1,7 +1,7 @@
 # 🚀🌌 NASA Space Apps Challenge — Winners Announcement! 🌍
 
 A huge **congratulations** to all our incredible teams for their **creativity, collaboration, and innovation** throughout this year’s hackathon! 💫  
-After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results and [pictures!](https://adobe.ly/46GO7ry)
+After an amazing weekend of **problem-solving, exploration, and inspiration**, here are the results, [pictures](https://adobe.ly/46GO7ry) and watch our [video recap](https://youtu.be/QzYwjDOLT_c)
 
 ### 🌍 NASA Space Apps Challenge Zurich 2025 – What a Weekend! 🚀✨
 
