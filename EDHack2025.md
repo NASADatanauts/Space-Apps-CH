@@ -1,61 +1,5 @@
 # NASA & ESA Open Data 
- Open Data & APIs for Air Navigation Projects
-
-## 1. Aircraft & Flight Tracking
-
-| Resource | Link | Notes |
-|----------|------|------|
-| OpenSky Network | [https://opensky-network.org/](https://opensky-network.org/) | Live and historical ADS-B aircraft positions, real-time flight tracking |
-| ADS-B Exchange | [https://www.adsbexchange.com/](https://www.adsbexchange.com/) | Global aircraft tracking from ADS-B signals, no filtering |
-| FAA Data (US) | [https://www.faa.gov/data_research/](https://www.faa.gov/data_research/) | Aircraft movements, airspace usage, airport data |
-| Eurocontrol Open Data | [https://www.eurocontrol.int/data-services](https://www.eurocontrol.int/data-services) | European air traffic statistics, flow management data |
-| Flightradar24 API (limited free) | [https://www.flightradar24.com/](https://www.flightradar24.com/) | Real-time aircraft positions (some restrictions on free API) |
-
-## 2. Airspace & Navigation Data
-
-| Resource | Link | Notes |
-|----------|------|------|
-| OpenAIP | [https://www.openaip.net/](https://www.openaip.net/) | Open aviation charts, airspaces, navaids, waypoints |
-| FAA NASR Data | [https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products) | Digital navigation data including navaids, airports, waypoints |
-| EUROCONTROL Digital Information | [https://www.eurocontrol.int/articles/eurocontrol-digital-products](https://www.eurocontrol.int/articles/eurocontrol-digital-products) | Airspace, navaid, route structure datasets |
-| ICAO Open Data | [https://www.icao.int/](https://www.icao.int/) | Airspace, aeronautical charts, flight rules, and standards |
-
-## 3. Weather & Atmospheric Data
-
-| Resource | Link | Notes |
-|----------|------|------|
-| NOAA Aviation Weather Center (AWC) | [https://aviationweather.gov/](https://aviationweather.gov/) | METAR, TAF, winds aloft, SIGMET, NOTAMs |
-| OpenWeatherMap Aviation API | [https://openweathermap.org/api/aviation](https://openweathermap.org/api/aviation) | Real-time weather, wind, temperature, cloud coverage |
-| ECMWF Datasets | [https://www.ecmwf.int/en/forecasts/datasets](https://www.ecmwf.int/en/forecasts/datasets) | High-resolution wind, temperature, atmospheric profiles |
-| NASA GEOS & MERRA-2 | [https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/) | Global atmospheric reanalysis, winds, pressure, temperature |
-
-## 4. UAV / Drone Specific Data
-
-| Resource | Link | Notes |
-|----------|------|------|
-| NASA UTM Flight Data | [https://utm.arc.nasa.gov/data.shtml](https://utm.arc.nasa.gov/data.shtml) | Flight data for drones in controlled airspace |
-| OpenSky UAS / UAV Datasets | [https://opensky-network.org/datasets](https://opensky-network.org/datasets) | UAV traffic patterns, ADS-B from drones |
-| OpenDroneMap / OpenAerialMap | [https://opendronemap.org/](https://opendronemap.org/) | Open aerial imagery datasets for mapping & navigation |
-| UAV Traffic Datasets (IEEE/Kaggle) | [https://www.kaggle.com/datasets?search=uav](https://www.kaggle.com/datasets?search=uav) | Drone detection, flight paths, multi-UAV experiments |
-
-## 5. Satellite & Geospatial Data
-
-| Resource | Link | Notes |
-|----------|------|------|
-| NASA Earthdata | [https://earthdata.nasa.gov/](https://earthdata.nasa.gov/) | Satellite imagery, terrain, weather, urban areas |
-| ESA Copernicus | [https://www.copernicus.eu/en](https://www.copernicus.eu/en) | Sentinel imagery (optical & SAR), land cover, airports & airspaces |
-| SRTM / NASA DEM | [https://www2.jpl.nasa.gov/srtm/](https://www2.jpl.nasa.gov/srtm/) | Digital Elevation Model for terrain and obstacle analysis |
-| OpenStreetMap | [https://www.openstreetmap.org/](https://www.openstreetmap.org/) | Airport locations, roads, obstacles for flight planning |
-
-## 6. Tools & APIs
-
-| Resource | Link | Notes |
-|----------|------|------|
-| PyADS-B | [https://github.com/openskynetwork/pyadsb](https://github.com/openskynetwork/pyadsb) | Python library for parsing ADS-B streams |
-| DroneKit / MAVSDK | [https://dronekit-python.readthedocs.io/](https://dronekit-python.readthedocs.io/) | Drone control & telemetry APIs, simulation-friendly |
-| FAA NOTAM API | [https://www.faa.gov/air_traffic/flight_info/aeronav/notams](https://www.faa.gov/air_traffic/flight_info/aeronav/notams) | Notices to airmen, airspace restrictions |
-
-
+ 
 ## EDH 2025 Challenges 
 Laelaeps-1 — Autonomous Threat Identification, Verification & Pursuit
 (Autonomous ground robot tracking humans/objects)
@@ -206,6 +150,64 @@ AI-based submarine threat classification, pipeline anomaly detection, AIS spoofi
 |Maritime vessel tracking	|ESA AIS Data (Open)	|https://marinetraffic.com/free-data|
 |Sea-floor mapping	|NASA SWOT Ocean Topography Mission	|https://swot.jpl.nasa.gov/|
 |Underwater anomaly signals|	ESA CryoSat & GOCE Gravity Data|	https://earth.esa.int/eogateway/missions|
+
+
+# Open Data & APIs for Air Navigation Projects
+
+## 1. Aircraft & Flight Tracking
+
+| Resource | Link | Notes |
+|----------|------|------|
+| OpenSky Network | [https://opensky-network.org/](https://opensky-network.org/) | Live and historical ADS-B aircraft positions, real-time flight tracking |
+| ADS-B Exchange | [https://www.adsbexchange.com/](https://www.adsbexchange.com/) | Global aircraft tracking from ADS-B signals, no filtering |
+| FAA Data (US) | [https://www.faa.gov/data_research/](https://www.faa.gov/data_research/) | Aircraft movements, airspace usage, airport data |
+| Eurocontrol Open Data | [https://www.eurocontrol.int/data-services](https://www.eurocontrol.int/data-services) | European air traffic statistics, flow management data |
+| Flightradar24 API (limited free) | [https://www.flightradar24.com/](https://www.flightradar24.com/) | Real-time aircraft positions (some restrictions on free API) |
+
+## 2. Airspace & Navigation Data
+
+| Resource | Link | Notes |
+|----------|------|------|
+| OpenAIP | [https://www.openaip.net/](https://www.openaip.net/) | Open aviation charts, airspaces, navaids, waypoints |
+| FAA NASR Data | [https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products) | Digital navigation data including navaids, airports, waypoints |
+| EUROCONTROL Digital Information | [https://www.eurocontrol.int/articles/eurocontrol-digital-products](https://www.eurocontrol.int/articles/eurocontrol-digital-products) | Airspace, navaid, route structure datasets |
+| ICAO Open Data | [https://www.icao.int/](https://www.icao.int/) | Airspace, aeronautical charts, flight rules, and standards |
+
+## 3. Weather & Atmospheric Data
+
+| Resource | Link | Notes |
+|----------|------|------|
+| NOAA Aviation Weather Center (AWC) | [https://aviationweather.gov/](https://aviationweather.gov/) | METAR, TAF, winds aloft, SIGMET, NOTAMs |
+| OpenWeatherMap Aviation API | [https://openweathermap.org/api/aviation](https://openweathermap.org/api/aviation) | Real-time weather, wind, temperature, cloud coverage |
+| ECMWF Datasets | [https://www.ecmwf.int/en/forecasts/datasets](https://www.ecmwf.int/en/forecasts/datasets) | High-resolution wind, temperature, atmospheric profiles |
+| NASA GEOS & MERRA-2 | [https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/) | Global atmospheric reanalysis, winds, pressure, temperature |
+
+## 4. UAV / Drone Specific Data
+
+| Resource | Link | Notes |
+|----------|------|------|
+| NASA UTM Flight Data | [https://utm.arc.nasa.gov/data.shtml](https://utm.arc.nasa.gov/data.shtml) | Flight data for drones in controlled airspace |
+| OpenSky UAS / UAV Datasets | [https://opensky-network.org/datasets](https://opensky-network.org/datasets) | UAV traffic patterns, ADS-B from drones |
+| OpenDroneMap / OpenAerialMap | [https://opendronemap.org/](https://opendronemap.org/) | Open aerial imagery datasets for mapping & navigation |
+| UAV Traffic Datasets (IEEE/Kaggle) | [https://www.kaggle.com/datasets?search=uav](https://www.kaggle.com/datasets?search=uav) | Drone detection, flight paths, multi-UAV experiments |
+
+## 5. Satellite & Geospatial Data
+
+| Resource | Link | Notes |
+|----------|------|------|
+| NASA Earthdata | [https://earthdata.nasa.gov/](https://earthdata.nasa.gov/) | Satellite imagery, terrain, weather, urban areas |
+| ESA Copernicus | [https://www.copernicus.eu/en](https://www.copernicus.eu/en) | Sentinel imagery (optical & SAR), land cover, airports & airspaces |
+| SRTM / NASA DEM | [https://www2.jpl.nasa.gov/srtm/](https://www2.jpl.nasa.gov/srtm/) | Digital Elevation Model for terrain and obstacle analysis |
+| OpenStreetMap | [https://www.openstreetmap.org/](https://www.openstreetmap.org/) | Airport locations, roads, obstacles for flight planning |
+
+## 6. Tools & APIs
+
+| Resource | Link | Notes |
+|----------|------|------|
+| PyADS-B | [https://github.com/openskynetwork/pyadsb](https://github.com/openskynetwork/pyadsb) | Python library for parsing ADS-B streams |
+| DroneKit / MAVSDK | [https://dronekit-python.readthedocs.io/](https://dronekit-python.readthedocs.io/) | Drone control & telemetry APIs, simulation-friendly |
+| FAA NOTAM API | [https://www.faa.gov/air_traffic/flight_info/aeronav/notams](https://www.faa.gov/air_traffic/flight_info/aeronav/notams) | Notices to airmen, airspace restrictions |
+
 
 ###  Ocean Traffic & Maritime Monitoring Resources
 
