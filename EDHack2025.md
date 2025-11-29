@@ -1,4 +1,4 @@
-# NASA & ESA Open Data — Mapped to Each Challenge
+# NASA & ESA Open Data 
 
 ## Challenge 
 Laelaeps-1 — Autonomous Threat Identification, Verification & Pursuit
@@ -18,8 +18,7 @@ Training models for person/vehicle detection, obstacle understanding, and real-t
 ## C-UAS-1 — Counter Fiber-Optic Drone Detection
 (Detect drones with non-RF sensors: thermal, optical, acoustic)
 Thermal signatures of drones, optical detection, acoustic pattern recognition.
-Useful NASA/ESA Open Datasets
-Data Type	Source	Link
+
 | Data Type | Source | Link |
 |----------|--------|------|
 |Thermal imagery sets (UAV, ground)	|NASA ECOSTRESS	|https://ecostress.jpl.nasa.gov/|
@@ -30,7 +29,6 @@ Data Type	Source	Link
 
 ## C-UAS-2 — Autonomous Targeting for Low-Cost Interceptors
 (Detect, classify, chase, intercept Shahed drones)
-
 Train vision models to lock on to small flying objects in thermal/visual spectra.
 
 | Data Type | Source | Link |
@@ -105,9 +103,17 @@ Routing algorithms, interference prediction, node failure scenarios.
 | Data Type | Source | Link |
 |----------|--------|------|
 |Delay-tolerant networking datasets	|NASA DTN Research Testbed	|https://www.nasa.gov/content/|
- delay-tolerant-networking
 |Satellite-free mesh data|	ESA OPS-SAT Experiments	|https://opssat1.esoc.esa.int/|
 |RF interference maps|	NASA NEDIS / SEVAN	|https://data.nasa.gov/|
+
+| Purpose | Best Tool | Link |
+|----------|--------|------|
+|Realistic RF + battlefield mesh|	EMANE	|https://www.nrl.navy.mil/itd/ncs/products/emane
+|Academic simulations	|ns-3|	https://www.nsnam.org/|
+|Quick prototype	|Docker mesh|	https://www.docker.com/|
+|Mobile UAS/UAV mesh	|Mininet-WiFi	|https://github.com/intrig-unicamp/mininet-wifi
+|Cross-country mesh with no physical radio	|ZeroTier / Tailscale	|https://www.zerotier.com/, https://tailscale.com/|
+|Beginner-friendly|	GNS3	|https://www.gns3.com/|
 
 
 
