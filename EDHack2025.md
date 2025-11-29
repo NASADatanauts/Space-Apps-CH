@@ -151,4 +151,33 @@ AI-based submarine threat classification, pipeline anomaly detection, AIS spoofi
 |Sea-floor mapping	|NASA SWOT Ocean Topography Mission	|https://swot.jpl.nasa.gov/|
 |Underwater anomaly signals|	ESA CryoSat & GOCE Gravity Data|	https://earth.esa.int/eogateway/missions|
 
+###  Ocean Traffic & Maritime Monitoring Resources
+
+| Resource Type | Name / Platform | Link | Notes |
+|---------------|----------------|------|-------|
+| AIS Data | MarineTraffic Free Data | [Link](https://www.marinetraffic.com/en/ais-data) | Real-time vessel positions, global coverage |
+| AIS Data | AISHub | [Link](https://www.aishub.net/) | Aggregates AIS feeds from global contributors |
+| AIS Data | ExactEarth | [Link](https://www.exactearth.com/) | Satellite AIS data, some free datasets |
+| ESA / Copernicus | Copernicus Marine Environment Monitoring Service (CMEMS) | [Link](https://marine.copernicus.eu/) | Ocean currents, sea state, vessel environment |
+| ESA / Copernicus | Sentinel-1 SAR Imagery | [Link](https://sentinel.esa.int/web/sentinel/missions/sentinel-1) | Detects ships and vessels even in cloudy conditions |
+| ESA / Copernicus | Sentinel-2 Optical Imagery | [Link](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) | Coastal monitoring, port activity |
+| NOAA / US Gov | NOAA ERDDAP | [Link](https://coastwatch.pfeg.noaa.gov/erddap/index.html) | Real-time oceanographic observations |
+| NOAA / US Gov | NOAA CoastWatch / VMS | [Link](https://coastwatch.noaa.gov/) | Vessel Monitoring System data for fisheries |
+| NOAA / US Gov | National Geospatial-Intelligence Agency (NGA) | [Link](https://www.nga.mil/) | Maritime charts & ship routes |
+| Open / Research | OpenShipMap / OpenAIS | [Link](https://openshipmap.org/) | Community-driven AIS and port data |
+| Open / Research | Global Fishing Watch | [Link](https://globalfishingwatch.org/) | Vessel tracking with focus on fishing activities |
+| Open / Research | Kaggle Maritime Datasets | [Link](https://www.kaggle.com/datasets?search=maritime+AIS) | Historical AIS, vessel tracking, port activity |
+| Satellite / Remote Sensing | NASA SWOT | [Link](https://swot.jpl.nasa.gov/) | Ocean currents, sea surface height, coastal monitoring |
+| Satellite / Remote Sensing | Copernicus Sentinel-3 | [Link](https://sentinel.esa.int/web/sentinel/missions/sentinel-3) | Sea surface temperature, color, ship detection potential |
+| Satellite / Remote Sensing | ESA CryoSat & GOCE | [Link](https://earth.esa.int/eogateway/missions) | Underwater topography & gravitational anomalies |
+| Tools / Software | OpenSeaMap | [Link](https://www.openseamap.org/) | Open-source maritime charts |
+| Tools / Software | PyAIS / Python AIS Tools | [Link](https://github.com/Megaputer/pyais) | Parse AIS streams, build analytics |
+| Tools / Software | MarineTraffic API | [Link](https://www.marinetraffic.com/en/ais-api-services) | Programmatic vessel tracking |
+| Weather & Wind | NOAA Global Forecast System (GFS) | [Link](https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs) | Global weather & wind forecasts |
+| Weather & Wind | OpenWeatherMap Marine API | [Link](https://openweathermap.org/api/marine) | Marine weather & wind conditions, API-based |
+| Weather & Wind | Copernicus Marine Wind Data | [Link](https://marine.copernicus.eu/) | Ocean wind fields and forecast |
+| Weather & Wind | ECMWF Ocean & Wind Datasets | [Link](https://www.ecmwf.int/en/forecasts/datasets) | High-resolution ocean & atmospheric wind data |
+
+
+
 
